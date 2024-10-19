@@ -1,0 +1,13 @@
+Transaction ID,Date,Amount,Vendor,Purchase Order ID,Type,Discount,Tax Paid,Submitted Date,Authorization,Item Description
+T001,2024-10-01,12500,Vendor A,PO1001,Purchase,10%,Yes,2024-10-05,Yes,Office Computers
+T002,2024-09-28,8000,Vendor B,PO1002,Purchase,5%,Yes,2024-09-29,No,Laptops
+T003,2024-09-15,9500,Vendor C,PO1003,Purchase,0%,No,2024-09-16,Yes,Projector
+T004,2024-09-01,7000,Vendor D,PO1004,Invoice,20%,Yes,2024-10-10,No,Server Maintenance
+T005,2024-09-25,10500,Vendor E,PO1005,Purchase,12%,Yes,2024-09-28,Yes,Conference Room Setup
+T006,2024-10-03,4500,Vendor F,PO1006,Purchase,15%,Yes,2024-10-03,No,Printer Supplies
+T007,2024-09-05,6000,Vendor G,PO1007,Invoice,0%,No,2024-10-06,Yes,Software Subscription
+T008,2024-10-05,5500,Vendor H,PO1008,Purchase,18%,Yes,2024-10-09,No,Security System Installation
+T009,2024-10-10,5000,Vendor I,PO1009,Invoice,12%,Yes,2024-10-11,Yes,Consulting Services
+T010,2024-09-22,3000,Vendor C,PO1010,Purchase,0%,No,2024-10-05,Yes,IT Equipment
+T011,2024-09-23,5500,Vendor C,PO1010,Purchase,0%,Yes,2024-10-05,Yes,IT Equipment
+T012,2024-08-15,7000,Vendor D,PO1004,Invoice,20%,Yes,2024-10-10,No,Server Maintenance
