@@ -40,16 +40,28 @@ def check_transaction_against_policy(transaction, policy_text):
     
     return result
 
+import csv
+import time
+from tqdm import tqdm
+
 # Main function to check all transactions
 def check_transactions(csv_file, pdf_file, output_file):
     transactions = load_transactions(csv_file)
     policy_text = extract_policy_text(pdf_file)
     
+    total_time = 0
+    transaction_count = len(transactions)
+
     # Add a violation column to the transactions
     for transaction in tqdm(transactions, desc="Analyzing Transactions"):  # Adding tqdm for progress
+        start_time = time.time()  # Start time for the current transaction
         result = check_transaction_against_policy(transaction, policy_text)
-        # Store the result in a new key called 'violation'
         transaction['violation'] = result.content if "Yes" in result.content else "No violation"
+        elapsed_time = time.time() - start_time  # Time taken for this transaction
+        total_time += elapsed_time  # Accumulate total time
+
+    # Calculate average time per transaction
+    average_time = total_time / transaction_count if transaction_count > 0 else 0
 
     # Write the updated transactions to a new CSV file
     with open(output_file, mode='w', newline='') as file:
@@ -58,7 +70,12 @@ def check_transactions(csv_file, pdf_file, output_file):
         writer.writeheader()
         writer.writerows(transactions)
 
+    # Output total and average time
+    print(f"Total consumed time: {total_time:.2f} seconds")
+    print(f"Average time per transaction: {average_time:.2f} seconds")
+
     return transactions
+
 
 # Example usage
 if __name__ == "__main__":
