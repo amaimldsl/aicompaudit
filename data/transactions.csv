@@ -1,31 +1,31 @@
-Transaction ID,Date,Amount,Vendor,Purchase Order ID,Type,Discount,Discount_Justification,Tax Paid,Submitted Date,Authorization,Item Description,Finance_Approval
-T001,09-07-24,14236.29,Vendor D,PO1970,Purchase,16.84%,Justification_A,No,17-07-24,Yes,Software Subscription,Yes
+Transaction ID,Date,Amount,Vendor,Purchase Order ID,Type,Discount,Discount_Justification,Tax Paid,Submitted Date,Department_Authorization,Item Description,Prior_Finance_Approval
+T001,09-07-24,14236.29,Vendor D,PO1970,Purchase,16.84%,Special promotion applied,No,17-07-24,Yes,Software Subscription,Yes
 T002,17-10-24,3091.7,Vendor H,PO1672,Purchase,22.53%,,Yes,17-10-24,Yes,Office Computers,Yes
-T003,21-08-24,8655.29,Vendor D,PO1335,Invoice,22.07%,Justification_A,Yes,26-09-24,Yes,Printer Supplies,Yes
+T003,21-08-24,8655.29,Vendor D,PO1335,Invoice,22.07%,Special promotion applied,Yes,26-09-24,Yes,Printer Supplies,Yes
 T004,16-10-24,13029.37,Vendor I,PO1635,Purchase,22.61%,,Yes,01-11-24,No,Consulting Services,No
 T005,15-09-24,15451.42,Vendor I,PO1210,Purchase,14.16%,,Yes,11-10-24,No,Laptops,No
 T006,16-08-24,4592.59,Vendor F,PO1004,Purchase,21.08%,,Yes,14-09-24,Yes,Projector,No
 T007,10-08-24,13299.9,Vendor C,PO1657,Invoice,0.43%,,Yes,25-08-24,No,Projector,No
-T008,26-08-24,12023.32,Vendor E,PO1004,Purchase,20.45%,Justification_A,No,26-08-24,No,Server Maintenance,No
+T008,26-08-24,12023.32,Vendor E,PO1004,Purchase,20.45%,Special promotion applied,No,26-08-24,No,Server Maintenance,No
 T009,15-09-24,9162.44,Vendor F,PO1249,Purchase,12.31%,,Yes,27-10-24,No,Office Computers,No
 T010,13-09-24,11486.03,Vendor E,PO1407,Invoice,13.52%,,No,16-10-24,No,IT Equipment,No
 T011,20-09-24,3405.98,Vendor I,PO1004,Purchase,3.21%,,No,13-10-24,Yes,Software Subscription,No
-T012,17-09-24,12028.28,Vendor B,PO1577,Invoice,17.22%,Justification_A,No,18-09-24,No,Printer Supplies,No
+T012,17-09-24,12028.28,Vendor B,PO1577,Invoice,17.22%,Special promotion applied,No,18-09-24,No,Printer Supplies,No
 T013,07-07-24,6511.7,Vendor G,PO1473,Purchase,9.32%,,No,02-08-24,Yes,Conference Room Setup,No
 T014,19-09-24,16341.59,Vendor E,PO1853,Invoice,0.04%,,Yes,28-09-24,No,Software Subscription,No
-T015,07-07-24,9007.49,Vendor H,PO1004,Invoice,19.00%,Justification_A,Yes,02-08-24,Yes,Printer Supplies,No
+T015,07-07-24,9007.49,Vendor H,PO1004,Invoice,19.00%,Special promotion applied,Yes,02-08-24,Yes,Printer Supplies,No
 T016,31-07-24,14755.85,Vendor C,PO1526,Invoice,0.69%,,No,31-08-24,No,IT Equipment,Yes
-T017,04-09-24,7404.73,Vendor D,PO1729,Invoice,23.50%,Justification_B,No,01-10-24,No,Laptops,Yes
-T018,17-09-24,9775.75,Vendor F,PO1180,Invoice,15.01%,Justification_A,No,24-09-24,No,Consulting Services,Yes
-T019,10-10-24,7405.65,Vendor G,PO1467,Invoice,18.49%,Justification_A,No,24-10-24,Yes,Server Maintenance,Yes
-T020,31-07-24,4453.95,Vendor F,PO1148,Purchase,16.78%,Justification_A,No,09-08-24,No,Office Computers,Yes
+T017,04-09-24,7404.73,Vendor D,PO1729,Invoice,23.50%,Special promotion applied,No,01-10-24,No,Laptops,Yes
+T018,17-09-24,9775.75,Vendor F,PO1180,Invoice,15.01%,Special promotion applied,No,24-09-24,No,Consulting Services,Yes
+T019,10-10-24,7405.65,Vendor G,PO1467,Invoice,18.49%,Special promotion applied,No,24-10-24,Yes,Server Maintenance,Yes
+T020,31-07-24,4453.95,Vendor F,PO1148,Purchase,16.78%,Special promotion applied,No,09-08-24,No,Office Computers,Yes
 T021,22-07-24,18880.77,Vendor F,PO1688,Invoice,20.46%,,Yes,28-07-24,No,Printer Supplies,Yes
 T022,06-10-24,8211.6,Vendor I,PO1780,Purchase,22.72%,,No,31-10-24,No,Server Maintenance,Yes
 T023,17-09-24,9365.67,Vendor A,PO1004,Purchase,13.55%,,Yes,11-10-24,No,Office Computers,Yes
-T024,14-07-24,4493.65,Vendor E,PO1994,Invoice,22.27%,Justification_A,No,18-07-24,Yes,Software Subscription,Yes
-T025,07-09-24,4334.79,Vendor C,PO1929,Purchase,19.09%,Justification_B,No,09-10-24,No,Laptops,Yes
+T024,14-07-24,4493.65,Vendor E,PO1994,Invoice,22.27%,Special promotion applied,No,18-07-24,Yes,Software Subscription,Yes
+T025,07-09-24,4334.79,Vendor C,PO1929,Purchase,19.09%,Special promotion applied,No,09-10-24,No,Laptops,Yes
 T026,11-07-24,6857.2,Vendor C,PO1675,Invoice,20.53%,,Yes,30-07-24,Yes,Security System Installation,Yes
-T027,20-09-24,12234.53,Vendor G,PO1276,Purchase,18.44%,Justification_A,No,16-10-24,No,Laptops,Yes
+T027,20-09-24,12234.53,Vendor G,PO1276,Purchase,18.44%,Special promotion applied,No,16-10-24,No,Laptops,Yes
 T028,11-07-24,12131.23,Vendor C,PO1496,Purchase,5.24%,,No,03-08-24,No,Conference Room Setup,No
 T029,20-09-24,12787.73,Vendor I,PO1339,Purchase,21.14%,,No,30-09-24,No,Conference Room Setup,No
 T030,03-10-24,10575.05,Vendor E,PO1198,Invoice,22.68%,,Yes,17-10-24,Yes,IT Equipment,No
@@ -33,40 +33,40 @@ T031,13-08-24,5249.38,Vendor C,PO1396,Purchase,11.75%,,Yes,25-09-24,Yes,IT Equip
 T032,16-08-24,14404.85,Vendor G,PO1109,Purchase,11.65%,,Yes,21-08-24,No,Software Subscription,No
 T033,13-07-24,14129.45,Vendor B,PO1387,Purchase,14.05%,,No,17-07-24,Yes,Software Subscription,No
 T034,10-10-24,14666.59,Vendor E,PO1004,Purchase,12.28%,,Yes,09-11-24,No,Projector,No
-T035,27-08-24,10667.5,Vendor H,PO1648,Purchase,18.38%,Justification_A,No,20-09-24,Yes,Office Computers,No
+T035,27-08-24,10667.5,Vendor H,PO1648,Purchase,18.38%,Special promotion applied,No,20-09-24,Yes,Office Computers,No
 T036,07-09-24,7361.61,Vendor E,PO1694,Purchase,9.25%,,No,06-10-24,No,IT Equipment,No
 T037,05-08-24,10094.22,Vendor A,PO1004,Purchase,5.08%,,No,23-08-24,No,Conference Room Setup,Yes
 T038,27-07-24,6171.69,Vendor B,PO1830,Purchase,20.78%,,Yes,28-07-24,Yes,Printer Supplies,Yes
-T039,17-10-24,7180.68,Vendor F,PO1216,Invoice,22.33%,Justification_A,No,01-11-24,Yes,Office Computers,Yes
-T040,09-09-24,13315.34,Vendor F,PO1510,Invoice,20.06%,Justification_A,Yes,22-09-24,Yes,Server Maintenance,Yes
+T039,17-10-24,7180.68,Vendor F,PO1216,Invoice,22.33%,Special promotion applied,No,01-11-24,Yes,Office Computers,Yes
+T040,09-09-24,13315.34,Vendor F,PO1510,Invoice,20.06%,Special promotion applied,Yes,22-09-24,Yes,Server Maintenance,Yes
 T041,01-08-24,6329.64,Vendor I,PO1004,Invoice,3.13%,,Yes,22-08-24,No,Consulting Services,Yes
 T042,18-07-24,14706.37,Vendor H,PO1486,Purchase,10.23%,,Yes,24-08-24,Yes,Server Maintenance,Yes
-T043,03-10-24,7492.68,Vendor F,PO1004,Purchase,19.91%,Justification_A,Yes,17-10-24,No,Printer Supplies,Yes
+T043,03-10-24,7492.68,Vendor F,PO1004,Purchase,19.91%,Special promotion applied,Yes,17-10-24,No,Printer Supplies,Yes
 T044,31-08-24,10288.04,Vendor E,PO1301,Invoice,2.69%,,No,15-09-24,No,Office Computers,Yes
 T045,14-08-24,12654.53,Vendor A,PO1004,Purchase,5.16%,,Yes,16-08-24,No,IT Equipment,Yes
 T046,12-08-24,5898.01,Vendor C,PO1004,Purchase,12.84%,,No,19-08-24,Yes,IT Equipment,Yes
-T047,09-10-24,16871.02,Vendor D,PO1420,Purchase,23.98%,Justification_C,No,05-11-24,No,Server Maintenance,Yes
+T047,09-10-24,16871.02,Vendor D,PO1420,Purchase,23.98%,Special promotion applied,No,05-11-24,No,Server Maintenance,Yes
 T048,10-08-24,8891.29,Vendor H,PO1565,Invoice,10.52%,,No,18-08-24,Yes,Laptops,Yes
 T049,03-08-24,12605.33,Vendor E,PO1004,Purchase,11.60%,,Yes,06-08-24,Yes,Software Subscription,No
 T050,16-09-24,3842.17,Vendor G,PO1800,Invoice,21.29%,,Yes,29-09-24,No,Office Computers,No
-T051,04-10-24,8172.27,Vendor D,PO1437,Invoice,19.48%,Justification_A,Yes,25-10-24,No,Consulting Services,No
-T052,01-09-24,5285.43,Vendor A,PO1079,Purchase,17.70%,Justification_A,Yes,04-10-24,No,Server Maintenance,No
+T051,04-10-24,8172.27,Vendor D,PO1437,Invoice,19.48%,Special promotion applied,Yes,25-10-24,No,Consulting Services,No
+T052,01-09-24,5285.43,Vendor A,PO1079,Purchase,17.70%,Special promotion applied,Yes,04-10-24,No,Server Maintenance,No
 T053,05-07-24,2345.88,Vendor E,PO1094,Purchase,2.88%,,Yes,09-08-24,Yes,Office Computers,No
 T054,20-09-24,14069.62,Vendor C,PO1280,Invoice,6.79%,,Yes,12-10-24,Yes,IT Equipment,No
 T055,06-07-24,8061.06,Vendor C,PO1105,Invoice,10.67%,,No,27-07-24,No,IT Equipment,No
-T056,24-09-24,8550.74,Vendor A,PO1999,Purchase,21.98%,Justification_A,Yes,25-10-24,Yes,Conference Room Setup,No
-T057,04-10-24,4165.16,Vendor I,PO1196,Purchase,20.44%,Justification_A,Yes,20-10-24,No,Laptops,No
+T056,24-09-24,8550.74,Vendor A,PO1999,Purchase,21.98%,Special promotion applied,Yes,25-10-24,Yes,Conference Room Setup,No
+T057,04-10-24,4165.16,Vendor I,PO1196,Purchase,20.44%,Special promotion applied,Yes,20-10-24,No,Laptops,No
 T058,15-07-24,7268.87,Vendor E,PO1901,Purchase,4.86%,,Yes,22-07-24,No,Consulting Services,No
 T059,22-08-24,4230.4,Vendor A,PO1829,Purchase,9.66%,,No,24-08-24,No,Security System Installation,No
-T060,29-07-24,14678.06,Vendor F,PO1699,Purchase,20.24%,Justification_A,No,24-08-24,No,Security System Installation,No
-T061,28-09-24,12470.3,Vendor B,PO1762,Invoice,16.75%,Justification_A,Yes,02-10-24,No,Printer Supplies,Yes
-T062,21-08-24,7106.6,Vendor E,PO1665,Purchase,23.15%,Justification_B,No,03-09-24,Yes,Server Maintenance,Yes
+T060,29-07-24,14678.06,Vendor F,PO1699,Purchase,20.24%,Special promotion applied,No,24-08-24,No,Security System Installation,No
+T061,28-09-24,12470.3,Vendor B,PO1762,Invoice,16.75%,Special promotion applied,Yes,02-10-24,No,Printer Supplies,Yes
+T062,21-08-24,7106.6,Vendor E,PO1665,Purchase,23.15%,Special promotion applied,No,03-09-24,Yes,Server Maintenance,Yes
 T063,25-08-24,13153.01,Vendor A,PO1110,Invoice,2.16%,,No,02-09-24,Yes,Laptops,Yes
 T064,17-09-24,8915.57,Vendor D,PO1528,Purchase,1.54%,,Yes,20-09-24,No,Server Maintenance,Yes
 T065,15-07-24,5959.23,Vendor F,PO1409,Purchase,21.57%,,Yes,31-07-24,No,Office Computers,Yes
 T066,03-07-24,6017.36,Vendor B,PO1109,Invoice,3.66%,,No,16-07-24,Yes,Office Computers,Yes
-T067,04-08-24,9679.15,Vendor E,PO1268,Invoice,15.20%,Justification_B,Yes,14-08-24,No,Security System Installation,Yes
-T068,10-09-24,4006.17,Vendor I,PO1812,Purchase,19.46%,Justification_A,Yes,19-09-24,No,Server Maintenance,Yes
+T067,04-08-24,9679.15,Vendor E,PO1268,Invoice,15.20%,Special promotion applied,Yes,14-08-24,No,Security System Installation,Yes
+T068,10-09-24,4006.17,Vendor I,PO1812,Purchase,19.46%,Special promotion applied,Yes,19-09-24,No,Server Maintenance,Yes
 T069,21-09-24,5982.61,Vendor E,PO1240,Purchase,14.45%,,No,19-10-24,No,Server Maintenance,Yes
 T070,14-08-24,13143.13,Vendor C,PO1663,Invoice,12.57%,,Yes,14-08-24,Yes,Laptops,Yes
 T071,09-08-24,12356.24,Vendor I,PO1572,Invoice,5.69%,,Yes,07-09-24,No,Consulting Services,Yes
@@ -75,194 +75,194 @@ T073,29-09-24,13650.42,Vendor I,PO1798,Purchase,10.22%,,No,07-10-24,Yes,Server M
 T074,26-07-24,2604.97,Vendor B,PO1035,Purchase,8.49%,,Yes,11-08-24,Yes,Consulting Services,No
 T075,24-09-24,6480.49,Vendor F,PO1231,Invoice,1.42%,,No,13-10-24,No,Office Computers,No
 T076,13-10-24,10954.84,Vendor A,PO1097,Invoice,10.95%,,Yes,05-11-24,Yes,Office Computers,No
-T077,25-09-24,5732.26,Vendor E,PO1617,Purchase,22.12%,Justification_A,No,26-10-24,Yes,Projector,No
+T077,25-09-24,5732.26,Vendor E,PO1617,Purchase,22.12%,Special promotion applied,No,26-10-24,Yes,Projector,No
 T078,31-08-24,3066.4,Vendor G,PO1517,Invoice,0.16%,,Yes,16-09-24,No,Conference Room Setup,No
 T079,30-09-24,5347.53,Vendor C,PO1078,Invoice,3.95%,,No,02-10-24,No,Server Maintenance,No
 T080,05-08-24,9334.17,Vendor I,PO1361,Purchase,4.07%,,Yes,31-08-24,Yes,Laptops,No
-T081,24-07-24,14952.9,Vendor C,PO1212,Purchase,16.47%,Justification_A,No,05-08-24,No,Consulting Services,No
+T081,24-07-24,14952.9,Vendor C,PO1212,Purchase,16.47%,Special promotion applied,No,05-08-24,No,Consulting Services,No
 T082,22-09-24,8024.54,Vendor E,PO1092,Invoice,0.29%,,Yes,18-10-24,Yes,Projector,No
 T083,05-08-24,7241.23,Vendor I,PO1940,Purchase,12.06%,,No,13-08-24,Yes,Conference Room Setup,No
-T084,20-09-24,5728.68,Vendor I,PO1661,Purchase,16.56%,Justification_A,Yes,06-10-24,Yes,Conference Room Setup,No
+T084,20-09-24,5728.68,Vendor I,PO1661,Purchase,16.56%,Special promotion applied,Yes,06-10-24,Yes,Conference Room Setup,No
 T085,29-07-24,11974.58,Vendor F,PO1023,Invoice,13.00%,,Yes,16-08-24,No,Consulting Services,No
 T086,10-09-24,10210.16,Vendor E,PO1404,Invoice,0.55%,,No,07-10-24,No,Office Computers,Yes
-T087,13-07-24,10291.79,Vendor A,PO1810,Invoice,16.92%,Justification_A,Yes,21-07-24,No,Conference Room Setup,Yes
+T087,13-07-24,10291.79,Vendor A,PO1810,Invoice,16.92%,Special promotion applied,Yes,21-07-24,No,Conference Room Setup,Yes
 T088,24-07-24,10126.67,Vendor B,PO1468,Purchase,1.96%,,Yes,26-07-24,No,Software Subscription,Yes
 T089,14-09-24,11367.94,Vendor I,PO1899,Purchase,13.99%,,Yes,17-10-24,Yes,Consulting Services,Yes
 T090,11-07-24,10116.69,Vendor F,PO1518,Purchase,3.12%,,Yes,16-07-24,No,Conference Room Setup,Yes
 T091,02-10-24,11208.34,Vendor D,PO1715,Invoice,2.84%,,No,12-10-24,Yes,Printer Supplies,Yes
-T092,26-07-24,12653.6,Vendor F,PO1333,Purchase,17.87%,Justification_A,Yes,24-08-24,No,Laptops,Yes
+T092,26-07-24,12653.6,Vendor F,PO1333,Purchase,17.87%,Special promotion applied,Yes,24-08-24,No,Laptops,Yes
 T093,15-10-24,3401.65,Vendor H,PO1626,Invoice,1.02%,,Yes,14-11-24,No,Server Maintenance,Yes
 T094,26-08-24,2815.76,Vendor A,PO1210,Purchase,11.41%,,Yes,09-09-24,No,Consulting Services,Yes
-T095,16-07-24,8002.3,Vendor C,PO1983,Invoice,15.25%,Justification_B,Yes,16-07-24,No,IT Equipment,Yes
+T095,16-07-24,8002.3,Vendor C,PO1983,Invoice,15.25%,Special promotion applied,Yes,16-07-24,No,IT Equipment,Yes
 T096,21-08-24,8561.64,Vendor C,PO1733,Invoice,24.38%,,No,13-09-24,Yes,Projector,Yes
 T097,13-07-24,9759.16,Vendor I,PO1189,Invoice,21.15%,,No,18-07-24,Yes,IT Equipment,Yes
-T098,15-07-24,8110.23,Vendor B,PO1197,Invoice,24.99%,Justification_C,No,26-07-24,No,Printer Supplies,Yes
+T098,15-07-24,8110.23,Vendor B,PO1197,Invoice,24.99%,Special promotion applied,No,26-07-24,No,Printer Supplies,Yes
 T099,06-10-24,2424.58,Vendor C,PO1508,Purchase,9.58%,,Yes,08-11-24,Yes,Consulting Services,Yes
 T100,03-09-24,12976.22,Vendor C,PO1560,Purchase,21.77%,,No,15-09-24,No,Server Maintenance,Yes
-T101,13-09-24,2278.04,Vendor E,PO1455,Invoice,24.87%,Justification_C,No,26-09-24,Yes,IT Equipment,No
-T102,22-07-24,8335.05,Vendor C,PO1873,Invoice,15.29%,Justification_A,No,20-08-24,Yes,Laptops,No
-T103,05-09-24,5392.51,Vendor H,PO1669,Invoice,20.12%,Justification_A,No,09-09-24,Yes,Conference Room Setup,No
+T101,13-09-24,2278.04,Vendor E,PO1455,Invoice,24.87%,Special promotion applied,No,26-09-24,Yes,IT Equipment,No
+T102,22-07-24,8335.05,Vendor C,PO1873,Invoice,15.29%,Special promotion applied,No,20-08-24,Yes,Laptops,No
+T103,05-09-24,5392.51,Vendor H,PO1669,Invoice,20.12%,Special promotion applied,No,09-09-24,Yes,Conference Room Setup,No
 T104,22-07-24,11001.74,Vendor B,PO1824,Purchase,10.50%,,No,23-08-24,No,Projector,No
-T105,27-07-24,10470.29,Vendor A,PO1954,Invoice,17.62%,Justification_A,No,28-07-24,Yes,Projector,No
-T106,19-07-24,7063.11,Vendor H,PO1637,Invoice,18.06%,Justification_A,Yes,24-07-24,Yes,Security System Installation,No
+T105,27-07-24,10470.29,Vendor A,PO1954,Invoice,17.62%,Special promotion applied,No,28-07-24,Yes,Projector,No
+T106,19-07-24,7063.11,Vendor H,PO1637,Invoice,18.06%,Special promotion applied,Yes,24-07-24,Yes,Security System Installation,No
 T107,15-09-24,2344.74,Vendor G,PO1452,Purchase,21.93%,,Yes,10-10-24,Yes,Office Computers,No
-T108,18-10-24,4022,Vendor H,PO1362,Purchase,18.61%,Justification_B,Yes,06-11-24,No,Printer Supplies,No
+T108,18-10-24,4022,Vendor H,PO1362,Purchase,18.61%,Special promotion applied,Yes,06-11-24,No,Printer Supplies,No
 T109,06-10-24,4116.09,Vendor H,PO1329,Invoice,4.40%,,Yes,25-10-24,Yes,Conference Room Setup,No
-T110,13-07-24,9184.72,Vendor G,PO1685,Invoice,24.00%,Justification_C,No,15-07-24,No,Software Subscription,No
-T111,23-07-24,8880.04,Vendor E,PO1123,Invoice,23.60%,Justification_A,Yes,18-08-24,No,Projector,No
-T112,11-09-24,4635.48,Vendor F,PO1197,Invoice,20.03%,Justification_A,No,29-09-24,Yes,Laptops,No
+T110,13-07-24,9184.72,Vendor G,PO1685,Invoice,24.00%,Special promotion applied,No,15-07-24,No,Software Subscription,No
+T111,23-07-24,8880.04,Vendor E,PO1123,Invoice,23.60%,Special promotion applied,Yes,18-08-24,No,Projector,No
+T112,11-09-24,4635.48,Vendor F,PO1197,Invoice,20.03%,Special promotion applied,No,29-09-24,Yes,Laptops,No
 T113,14-10-24,5276.12,Vendor B,PO1620,Invoice,14.88%,,Yes,03-11-24,Yes,Conference Room Setup,No
-T114,16-08-24,5765.93,Vendor E,PO1590,Purchase,16.96%,Justification_A,No,12-09-24,No,Printer Supplies,No
+T114,16-08-24,5765.93,Vendor E,PO1590,Purchase,16.96%,Special promotion applied,No,12-09-24,No,Printer Supplies,No
 T115,27-08-24,11886.88,Vendor H,PO1893,Purchase,7.15%,,Yes,30-09-24,No,Security System Installation,Yes
 T116,19-09-24,3073.03,Vendor G,PO1912,Invoice,12.93%,,Yes,01-10-24,Yes,Laptops,Yes
-T117,17-09-24,13271.96,Vendor H,PO1136,Invoice,20.89%,Justification_A,No,03-10-24,No,Consulting Services,Yes
+T117,17-09-24,13271.96,Vendor H,PO1136,Invoice,20.89%,Special promotion applied,No,03-10-24,No,Consulting Services,Yes
 T118,01-08-24,5436.42,Vendor I,PO1256,Purchase,10.90%,,No,07-08-24,No,Projector,Yes
 T119,21-07-24,5405.45,Vendor I,PO1776,Invoice,8.40%,,No,08-08-24,Yes,Conference Room Setup,Yes
 T120,20-08-24,3720.27,Vendor G,PO1342,Invoice,13.21%,,Yes,01-09-24,Yes,Conference Room Setup,Yes
 T121,03-09-24,10785.73,Vendor E,PO1564,Purchase,24.48%,,Yes,21-09-24,No,Security System Installation,Yes
-T122,12-08-24,12542.89,Vendor I,PO1292,Purchase,18.17%,Justification_A,No,03-09-24,Yes,Office Computers,Yes
+T122,12-08-24,12542.89,Vendor I,PO1292,Purchase,18.17%,Special promotion applied,No,03-09-24,Yes,Office Computers,Yes
 T123,14-08-24,6948.59,Vendor I,PO1146,Purchase,1.83%,,Yes,16-08-24,No,Security System Installation,Yes
-T124,30-08-24,7828.97,Vendor F,PO1821,Purchase,24.71%,Justification_C,Yes,11-09-24,No,IT Equipment,Yes
+T124,30-08-24,7828.97,Vendor F,PO1821,Purchase,24.71%,Special promotion applied,Yes,11-09-24,No,IT Equipment,Yes
 T125,09-09-24,10994.4,Vendor F,PO1747,Invoice,10.30%,,No,06-10-24,No,Software Subscription,Yes
 T126,12-08-24,7005.25,Vendor D,PO1229,Invoice,20.61%,,No,14-08-24,Yes,IT Equipment,Yes
-T127,16-09-24,6978,Vendor E,PO1075,Purchase,23.03%,Justification_B,No,25-09-24,No,Conference Room Setup,Yes
+T127,16-09-24,6978,Vendor E,PO1075,Purchase,23.03%,Special promotion applied,No,25-09-24,No,Conference Room Setup,Yes
 T128,28-09-24,2457.95,Vendor E,PO1683,Invoice,14.43%,,No,12-10-24,No,Software Subscription,Yes
-T129,30-08-24,4543.31,Vendor F,PO1250,Purchase,17.16%,Justification_A,No,23-09-24,No,Consulting Services,Yes
+T129,30-08-24,4543.31,Vendor F,PO1250,Purchase,17.16%,Special promotion applied,No,23-09-24,No,Consulting Services,Yes
 T130,04-07-24,12063.11,Vendor C,PO1446,Invoice,11.24%,,Yes,09-07-24,No,Consulting Services,No
-T131,10-07-24,5064.11,Vendor B,PO1234,Purchase,19.99%,Justification_A,No,12-07-24,No,Conference Room Setup,No
+T131,10-07-24,5064.11,Vendor B,PO1234,Purchase,19.99%,Special promotion applied,No,12-07-24,No,Conference Room Setup,No
 T132,02-08-24,4939.71,Vendor I,PO1757,Purchase,14.82%,,No,04-09-24,Yes,Consulting Services,No
 T133,15-09-24,10179.35,Vendor E,PO1943,Purchase,8.91%,,Yes,09-10-24,Yes,Office Computers,No
 T134,01-10-24,11129.24,Vendor B,PO1910,Purchase,12.89%,,No,02-10-24,Yes,IT Equipment,No
-T135,06-09-24,12824.61,Vendor D,PO1183,Purchase,16.37%,Justification_A,No,11-09-24,Yes,Security System Installation,No
+T135,06-09-24,12824.61,Vendor D,PO1183,Purchase,16.37%,Special promotion applied,No,11-09-24,Yes,Security System Installation,No
 T136,13-10-24,5896.3,Vendor F,PO1458,Purchase,8.69%,,Yes,17-11-24,No,Software Subscription,No
 T137,04-09-24,12544.34,Vendor G,PO1644,Invoice,1.23%,,No,13-09-24,Yes,Printer Supplies,No
 T138,05-09-24,4110.12,Vendor G,PO1052,Purchase,8.00%,,Yes,21-09-24,No,Consulting Services,No
 T139,06-10-24,2672.68,Vendor F,PO1923,Purchase,12.30%,,No,11-10-24,Yes,IT Equipment,No
-T140,14-10-24,9015.41,Vendor D,PO1189,Invoice,23.82%,Justification_C,No,23-10-24,Yes,Software Subscription,No
+T140,14-10-24,9015.41,Vendor D,PO1189,Invoice,23.82%,Special promotion applied,No,23-10-24,Yes,Software Subscription,No
 T141,10-09-24,8279.55,Vendor I,PO1767,Invoice,21.78%,,No,18-09-24,No,Server Maintenance,No
-T142,21-09-24,6061.33,Vendor H,PO1905,Purchase,16.94%,Justification_A,Yes,10-10-24,No,Server Maintenance,No
-T143,23-07-24,13736.31,Vendor B,PO1707,Purchase,16.35%,Justification_A,No,28-07-24,Yes,Software Subscription,No
+T142,21-09-24,6061.33,Vendor H,PO1905,Purchase,16.94%,Special promotion applied,Yes,10-10-24,No,Server Maintenance,No
+T143,23-07-24,13736.31,Vendor B,PO1707,Purchase,16.35%,Special promotion applied,No,28-07-24,Yes,Software Subscription,No
 T144,05-10-24,8023.61,Vendor G,PO1788,Purchase,21.28%,,Yes,23-10-24,No,Projector,No
-T145,21-07-24,6125.28,Vendor E,PO1397,Purchase,18.02%,Justification_B,No,24-07-24,Yes,Security System Installation,No
+T145,21-07-24,6125.28,Vendor E,PO1397,Purchase,18.02%,Special promotion applied,No,24-07-24,Yes,Security System Installation,No
 T146,22-09-24,7689.81,Vendor B,PO1373,Invoice,13.72%,,No,23-09-24,No,Office Computers,No
-T147,02-08-24,10632.68,Vendor C,PO1593,Purchase,24.14%,Justification_C,No,11-08-24,Yes,Laptops,No
+T147,02-08-24,10632.68,Vendor C,PO1593,Purchase,24.14%,Special promotion applied,No,11-08-24,Yes,Laptops,No
 T148,02-09-24,12109.91,Vendor G,PO1761,Purchase,11.93%,,No,10-09-24,No,Server Maintenance,No
-T149,10-10-24,10498.08,Vendor C,PO1956,Invoice,19.07%,Justification_A,Yes,26-10-24,Yes,Server Maintenance,Yes
+T149,10-10-24,10498.08,Vendor C,PO1956,Invoice,19.07%,Special promotion applied,Yes,26-10-24,Yes,Server Maintenance,Yes
 T150,14-10-24,12744.15,Vendor G,PO1350,Purchase,0.80%,,No,02-11-24,Yes,Printer Supplies,Yes
 T151,21-09-24,2477.01,Vendor A,PO1807,Purchase,1.84%,,Yes,07-10-24,No,IT Equipment,Yes
 T152,16-10-24,7469.03,Vendor H,PO1979,Invoice,0.62%,,No,02-11-24,Yes,Office Computers,Yes
 T153,20-08-24,7689.25,Vendor F,PO1897,Purchase,9.74%,,No,24-08-24,No,IT Equipment,Yes
 T154,02-09-24,13150.61,Vendor H,PO1492,Purchase,24.44%,,No,03-09-24,Yes,IT Equipment,Yes
-T155,11-07-24,13168.66,Vendor C,PO1547,Invoice,22.36%,Justification_A,No,07-08-24,No,Server Maintenance,Yes
+T155,11-07-24,13168.66,Vendor C,PO1547,Invoice,22.36%,Special promotion applied,No,07-08-24,No,Server Maintenance,Yes
 T156,01-09-24,11416.4,Vendor H,PO1376,Invoice,5.95%,,No,23-09-24,No,IT Equipment,Yes
-T157,04-09-24,13153.11,Vendor H,PO1631,Invoice,22.86%,Justification_B,Yes,09-10-24,No,Conference Room Setup,Yes
+T157,04-09-24,13153.11,Vendor H,PO1631,Invoice,22.86%,Special promotion applied,Yes,09-10-24,No,Conference Room Setup,Yes
 T158,26-08-24,14804.59,Vendor G,PO1934,Invoice,2.08%,,No,04-09-24,No,Software Subscription,Yes
-T159,21-08-24,4198.95,Vendor I,PO1230,Purchase,23.78%,Justification_C,Yes,09-09-24,No,Conference Room Setup,Yes
-T160,30-08-24,10687.39,Vendor E,PO1649,Purchase,17.98%,Justification_A,No,02-09-24,No,Consulting Services,No
-T161,21-07-24,11087.07,Vendor F,PO1821,Purchase,18.04%,Justification_A,Yes,24-07-24,Yes,Office Computers,No
+T159,21-08-24,4198.95,Vendor I,PO1230,Purchase,23.78%,Special promotion applied,Yes,09-09-24,No,Conference Room Setup,Yes
+T160,30-08-24,10687.39,Vendor E,PO1649,Purchase,17.98%,Special promotion applied,No,02-09-24,No,Consulting Services,No
+T161,21-07-24,11087.07,Vendor F,PO1821,Purchase,18.04%,Special promotion applied,Yes,24-07-24,Yes,Office Computers,No
 T162,23-07-24,2468.2,Vendor C,PO1912,Purchase,13.66%,,No,25-08-24,Yes,Projector,No
-T163,21-07-24,12278.52,Vendor G,PO1233,Invoice,17.86%,Justification_A,No,17-08-24,Yes,IT Equipment,No
-T164,13-07-24,7681.15,Vendor I,PO1202,Invoice,18.41%,Justification_A,No,02-08-24,Yes,Security System Installation,No
-T165,12-08-24,3301.49,Vendor D,PO1818,Invoice,23.37%,Justification_C,Yes,27-08-24,No,Software Subscription,No
+T163,21-07-24,12278.52,Vendor G,PO1233,Invoice,17.86%,Special promotion applied,No,17-08-24,Yes,IT Equipment,No
+T164,13-07-24,7681.15,Vendor I,PO1202,Invoice,18.41%,Special promotion applied,No,02-08-24,Yes,Security System Installation,No
+T165,12-08-24,3301.49,Vendor D,PO1818,Invoice,23.37%,Special promotion applied,Yes,27-08-24,No,Software Subscription,No
 T166,05-10-24,11021.4,Vendor E,PO1246,Invoice,6.31%,,No,07-11-24,No,Laptops,No
 T167,24-09-24,4082.57,Vendor G,PO1480,Purchase,9.96%,,No,26-10-24,No,Office Computers,No
-T168,25-08-24,14713.07,Vendor I,PO1005,Purchase,17.70%,Justification_A,No,20-09-24,No,Software Subscription,No
+T168,25-08-24,14713.07,Vendor I,PO1005,Purchase,17.70%,Special promotion applied,No,20-09-24,No,Software Subscription,No
 T169,08-10-24,2590.82,Vendor B,PO1942,Invoice,24.43%,,No,03-11-24,No,Consulting Services,No
 T170,16-10-24,5478.91,Vendor G,PO1211,Purchase,1.53%,,Yes,24-10-24,No,Server Maintenance,No
 T171,08-08-24,6737.37,Vendor C,PO1879,Invoice,22.71%,,No,25-08-24,No,Security System Installation,No
 T172,14-08-24,6726.7,Vendor D,PO1193,Purchase,5.97%,,Yes,07-09-24,Yes,Software Subscription,No
-T173,08-08-24,11294.7,Vendor B,PO1498,Invoice,15.13%,Justification_A,No,05-09-24,Yes,Conference Room Setup,No
+T173,08-08-24,11294.7,Vendor B,PO1498,Invoice,15.13%,Special promotion applied,No,05-09-24,Yes,Conference Room Setup,No
 T174,26-09-24,14790.4,Vendor D,PO1064,Invoice,8.82%,,Yes,27-10-24,Yes,Projector,Yes
 T175,21-08-24,2389.32,Vendor H,PO1369,Invoice,2.47%,,Yes,31-08-24,No,Printer Supplies,Yes
 T176,03-07-24,2677.64,Vendor A,PO1918,Invoice,3.20%,,No,11-07-24,No,Conference Room Setup,Yes
 T177,06-10-24,2094.3,Vendor I,PO1311,Purchase,7.44%,,Yes,10-11-24,Yes,Laptops,Yes
 T178,12-09-24,11489.06,Vendor G,PO1428,Invoice,1.06%,,Yes,30-09-24,Yes,Server Maintenance,Yes
 T179,26-07-24,2272.38,Vendor D,PO1065,Invoice,12.20%,,Yes,31-07-24,No,Software Subscription,Yes
-T180,07-08-24,14609.36,Vendor I,PO1769,Invoice,19.06%,Justification_A,Yes,11-09-24,Yes,IT Equipment,Yes
+T180,07-08-24,14609.36,Vendor I,PO1769,Invoice,19.06%,Special promotion applied,Yes,11-09-24,Yes,IT Equipment,Yes
 T181,13-07-24,10636.04,Vendor D,PO1179,Invoice,0.60%,,No,31-07-24,Yes,Server Maintenance,Yes
 T182,14-08-24,10691.18,Vendor B,PO1595,Invoice,9.91%,,No,11-09-24,No,Server Maintenance,Yes
-T183,22-07-24,7438.04,Vendor G,PO1379,Invoice,23.31%,Justification_B,No,04-08-24,Yes,Printer Supplies,Yes
+T183,22-07-24,7438.04,Vendor G,PO1379,Invoice,23.31%,Special promotion applied,No,04-08-24,Yes,Printer Supplies,Yes
 T184,24-09-24,14627.93,Vendor F,PO1938,Invoice,10.27%,,No,20-10-24,No,Conference Room Setup,Yes
 T185,01-09-24,13391.97,Vendor D,PO1487,Purchase,3.86%,,No,04-09-24,Yes,Security System Installation,Yes
-T186,12-09-24,3145.55,Vendor B,PO1356,Purchase,23.77%,Justification_C,Yes,23-09-24,Yes,Software Subscription,Yes
+T186,12-09-24,3145.55,Vendor B,PO1356,Purchase,23.77%,Special promotion applied,Yes,23-09-24,Yes,Software Subscription,Yes
 T187,15-07-24,9027.05,Vendor G,PO1166,Invoice,14.97%,,Yes,23-07-24,No,Projector,Yes
-T188,18-09-24,10450.77,Vendor B,PO1157,Purchase,18.30%,Justification_A,Yes,12-10-24,No,Printer Supplies,Yes
-T189,10-10-24,4487.79,Vendor A,PO1874,Purchase,21.52%,Justification_A,Yes,12-10-24,No,Consulting Services,Yes
-T190,26-08-24,6647.7,Vendor B,PO1392,Purchase,19.86%,Justification_A,No,29-08-24,No,IT Equipment,Yes
-T191,19-07-24,13100.92,Vendor I,PO1067,Invoice,24.04%,Justification_C,Yes,30-07-24,No,IT Equipment,Yes
+T188,18-09-24,10450.77,Vendor B,PO1157,Purchase,18.30%,Special promotion applied,Yes,12-10-24,No,Printer Supplies,Yes
+T189,10-10-24,4487.79,Vendor A,PO1874,Purchase,21.52%,Special promotion applied,Yes,12-10-24,No,Consulting Services,Yes
+T190,26-08-24,6647.7,Vendor B,PO1392,Purchase,19.86%,Special promotion applied,No,29-08-24,No,IT Equipment,Yes
+T191,19-07-24,13100.92,Vendor I,PO1067,Invoice,24.04%,Special promotion applied,Yes,30-07-24,No,IT Equipment,Yes
 T192,07-09-24,2972.3,Vendor H,PO1084,Invoice,7.88%,,No,18-09-24,No,IT Equipment,Yes
 T193,01-09-24,7709.94,Vendor C,PO1142,Purchase,7.33%,,No,05-10-24,No,Consulting Services,Yes
-T194,10-10-24,10274.53,Vendor D,PO1460,Invoice,15.59%,Justification_A,Yes,03-11-24,No,Software Subscription,Yes
-T195,18-09-24,13421.43,Vendor C,PO1557,Invoice,20.88%,Justification_A,Yes,20-09-24,Yes,Server Maintenance,Yes
+T194,10-10-24,10274.53,Vendor D,PO1460,Invoice,15.59%,Special promotion applied,Yes,03-11-24,No,Software Subscription,Yes
+T195,18-09-24,13421.43,Vendor C,PO1557,Invoice,20.88%,Special promotion applied,Yes,20-09-24,Yes,Server Maintenance,Yes
 T196,05-10-24,8293.61,Vendor H,PO1894,Invoice,12.67%,,Yes,16-10-24,No,Office Computers,No
 T197,06-07-24,7525.31,Vendor F,PO1109,Purchase,7.29%,,Yes,26-07-24,No,Security System Installation,No
-T198,07-09-24,12974.92,Vendor G,PO1287,Invoice,18.99%,Justification_A,Yes,27-09-24,Yes,Conference Room Setup,No
+T198,07-09-24,12974.92,Vendor G,PO1287,Invoice,18.99%,Special promotion applied,Yes,27-09-24,Yes,Conference Room Setup,No
 T199,03-08-24,9431.16,Vendor B,PO1765,Purchase,7.24%,,No,13-08-24,Yes,Conference Room Setup,No
 T200,18-09-24,10778.35,Vendor H,PO1818,Invoice,4.05%,,No,09-10-24,No,Server Maintenance,No
-T201,06-08-24,6190.29,Vendor C,PO1769,Invoice,15.35%,Justification_A,No,07-09-24,Yes,Software Subscription,No
+T201,06-08-24,6190.29,Vendor C,PO1769,Invoice,15.35%,Special promotion applied,No,07-09-24,Yes,Software Subscription,No
 T202,01-10-24,3681.98,Vendor H,PO1024,Purchase,21.94%,,No,05-10-24,No,Conference Room Setup,No
 T203,22-09-24,6236.75,Vendor I,PO1123,Purchase,14.46%,,No,02-10-24,Yes,Software Subscription,No
-T204,03-08-24,11780.58,Vendor D,PO1384,Purchase,20.25%,Justification_A,Yes,21-08-24,No,Software Subscription,No
-T205,15-09-24,13208.3,Vendor B,PO1770,Purchase,23.39%,Justification_B,Yes,30-09-24,Yes,Software Subscription,No
+T204,03-08-24,11780.58,Vendor D,PO1384,Purchase,20.25%,Special promotion applied,Yes,21-08-24,No,Software Subscription,No
+T205,15-09-24,13208.3,Vendor B,PO1770,Purchase,23.39%,Special promotion applied,Yes,30-09-24,Yes,Software Subscription,No
 T206,21-09-24,9581.5,Vendor G,PO1097,Invoice,6.52%,,No,21-09-24,Yes,Conference Room Setup,No
 T207,31-08-24,4120.35,Vendor F,PO1419,Purchase,5.69%,,Yes,27-09-24,Yes,Server Maintenance,No
-T208,04-08-24,5261.91,Vendor G,PO1552,Invoice,17.02%,Justification_A,Yes,03-09-24,No,IT Equipment,No
-T209,01-08-24,8313.6,Vendor G,PO1020,Purchase,23.40%,Justification_B,No,17-08-24,No,Printer Supplies,No
+T208,04-08-24,5261.91,Vendor G,PO1552,Invoice,17.02%,Special promotion applied,Yes,03-09-24,No,IT Equipment,No
+T209,01-08-24,8313.6,Vendor G,PO1020,Purchase,23.40%,Special promotion applied,No,17-08-24,No,Printer Supplies,No
 T210,25-09-24,2592.41,Vendor D,PO1952,Invoice,14.17%,,Yes,02-10-24,Yes,Conference Room Setup,No
 T211,26-07-24,10270.4,Vendor D,PO1829,Invoice,12.23%,,Yes,28-08-24,No,Laptops,No
 T212,03-07-24,12697.14,Vendor C,PO1118,Invoice,10.56%,,No,16-07-24,No,Software Subscription,No
 T213,31-08-24,14550.44,Vendor A,PO1964,Invoice,4.87%,,Yes,04-10-24,No,IT Equipment,No
-T214,03-10-24,12292.13,Vendor I,PO1727,Purchase,23.13%,Justification_B,No,01-11-24,Yes,IT Equipment,No
+T214,03-10-24,12292.13,Vendor I,PO1727,Purchase,23.13%,Special promotion applied,No,01-11-24,Yes,IT Equipment,No
 T215,19-09-24,13532.56,Vendor G,PO1620,Invoice,20.52%,,No,20-10-24,No,Printer Supplies,No
 T216,08-10-24,13378.33,Vendor B,PO1909,Invoice,4.91%,,No,21-10-24,No,Laptops,No
 T217,26-09-24,14967.28,Vendor G,PO1159,Purchase,2.22%,,No,06-10-24,No,Software Subscription,No
 T218,12-09-24,14196.05,Vendor B,PO1099,Invoice,6.72%,,Yes,27-09-24,No,Software Subscription,No
 T219,30-09-24,12469.19,Vendor D,PO1208,Invoice,13.66%,,Yes,24-10-24,Yes,IT Equipment,No
-T220,22-09-24,12897.73,Vendor A,PO1049,Invoice,24.60%,Justification_C,Yes,25-10-24,No,Projector,No
-T221,04-07-24,7211.08,Vendor F,PO1896,Purchase,22.12%,Justification_A,Yes,25-07-24,Yes,Printer Supplies,No
-T222,13-09-24,3090.32,Vendor D,PO1815,Invoice,21.41%,Justification_A,No,15-10-24,Yes,Security System Installation,No
-T223,15-08-24,14683.63,Vendor D,PO1884,Purchase,22.74%,Justification_A,Yes,03-09-24,No,Security System Installation,No
+T220,22-09-24,12897.73,Vendor A,PO1049,Invoice,24.60%,Special promotion applied,Yes,25-10-24,No,Projector,No
+T221,04-07-24,7211.08,Vendor F,PO1896,Purchase,22.12%,Special promotion applied,Yes,25-07-24,Yes,Printer Supplies,No
+T222,13-09-24,3090.32,Vendor D,PO1815,Invoice,21.41%,Special promotion applied,No,15-10-24,Yes,Security System Installation,No
+T223,15-08-24,14683.63,Vendor D,PO1884,Purchase,22.74%,Special promotion applied,Yes,03-09-24,No,Security System Installation,No
 T224,06-07-24,5151.23,Vendor A,PO1990,Purchase,7.67%,,No,26-07-24,No,Server Maintenance,No
 T225,06-10-24,2846.73,Vendor E,PO1282,Invoice,13.92%,,No,08-10-24,No,Conference Room Setup,No
 T226,16-07-24,2510.94,Vendor D,PO1468,Invoice,5.67%,,Yes,16-07-24,No,Software Subscription,No
 T227,27-07-24,4835.03,Vendor I,PO1823,Invoice,24.56%,,Yes,31-07-24,No,Projector,No
 T228,18-07-24,10079.76,Vendor G,PO1325,Purchase,9.31%,,Yes,20-08-24,No,Printer Supplies,No
 T229,09-09-24,13740.33,Vendor B,PO1904,Invoice,9.03%,,No,16-09-24,No,IT Equipment,No
-T230,27-09-24,9602.43,Vendor B,PO1329,Purchase,21.53%,Justification_A,Yes,11-10-24,Yes,Printer Supplies,No
-T231,24-07-24,11575.25,Vendor B,PO1928,Invoice,19.31%,Justification_A,Yes,05-08-24,Yes,Laptops,No
-T232,29-09-24,8356.49,Vendor H,PO1903,Purchase,17.44%,Justification_B,Yes,29-09-24,Yes,Laptops,No
+T230,27-09-24,9602.43,Vendor B,PO1329,Purchase,21.53%,Special promotion applied,Yes,11-10-24,Yes,Printer Supplies,No
+T231,24-07-24,11575.25,Vendor B,PO1928,Invoice,19.31%,Special promotion applied,Yes,05-08-24,Yes,Laptops,No
+T232,29-09-24,8356.49,Vendor H,PO1903,Purchase,17.44%,Special promotion applied,Yes,29-09-24,Yes,Laptops,No
 T233,22-08-24,13403.12,Vendor F,PO1879,Invoice,8.39%,,Yes,11-09-24,Yes,IT Equipment,No
 T234,14-08-24,5765.41,Vendor D,PO1563,Purchase,4.04%,,Yes,17-09-24,Yes,Laptops,No
 T235,02-09-24,12471.48,Vendor E,PO1440,Invoice,20.72%,,No,10-09-24,No,Consulting Services,No
-T236,20-07-24,3576.48,Vendor E,PO1356,Purchase,23.23%,Justification_B,Yes,14-08-24,Yes,Conference Room Setup,No
+T236,20-07-24,3576.48,Vendor E,PO1356,Purchase,23.23%,Special promotion applied,Yes,14-08-24,Yes,Conference Room Setup,No
 T237,12-10-24,10550.06,Vendor B,PO1343,Purchase,1.19%,,Yes,07-11-24,Yes,Conference Room Setup,No
 T238,15-10-24,13326.2,Vendor E,PO1630,Invoice,8.82%,,No,12-11-24,No,Laptops,No
-T239,11-10-24,11474.97,Vendor C,PO1218,Purchase,15.25%,Justification_A,Yes,11-10-24,Yes,Laptops,No
+T239,11-10-24,11474.97,Vendor C,PO1218,Purchase,15.25%,Special promotion applied,Yes,11-10-24,Yes,Laptops,No
 T240,20-07-24,4232.5,Vendor H,PO1151,Purchase,4.05%,,No,15-08-24,Yes,Consulting Services,No
 T241,18-08-24,13050.42,Vendor H,PO1313,Invoice,5.19%,,Yes,23-08-24,No,Security System Installation,No
-T242,24-09-24,6796.22,Vendor E,PO1118,Invoice,16.06%,Justification_A,No,02-10-24,No,Conference Room Setup,No
+T242,24-09-24,6796.22,Vendor E,PO1118,Invoice,16.06%,Special promotion applied,No,02-10-24,No,Conference Room Setup,No
 T243,10-10-24,4009.58,Vendor A,PO1203,Purchase,4.90%,,No,04-11-24,No,Office Computers,No
 T244,24-08-24,14593.49,Vendor B,PO1637,Purchase,12.26%,,No,05-09-24,Yes,Security System Installation,No
 T245,27-09-24,12515.74,Vendor D,PO1586,Invoice,7.88%,,No,29-10-24,No,Printer Supplies,No
 T246,06-07-24,2885.73,Vendor F,PO1836,Purchase,3.58%,,No,08-08-24,Yes,Projector,No
 T247,16-08-24,6275.11,Vendor G,PO1152,Invoice,24.52%,,No,11-09-24,Yes,Office Computers,No
 T248,11-10-24,9628.85,Vendor C,PO1371,Invoice,14.46%,,No,29-10-24,Yes,Printer Supplies,No
-T249,16-07-24,4133.31,Vendor H,PO1392,Purchase,15.76%,Justification_A,No,21-07-24,Yes,Consulting Services,No
+T249,16-07-24,4133.31,Vendor H,PO1392,Purchase,15.76%,Special promotion applied,No,21-07-24,Yes,Consulting Services,No
 T250,19-07-24,2554.1,Vendor C,PO1637,Purchase,2.94%,,No,02-08-24,Yes,IT Equipment,No
-T251,03-10-24,13110.54,Vendor E,PO1807,Invoice,15.30%,Justification_A,Yes,18-10-24,Yes,IT Equipment,No
-T252,06-08-24,11633.56,Vendor C,PO1541,Purchase,24.66%,Justification_C,Yes,14-08-24,Yes,Consulting Services,No
-T253,14-10-24,3990.76,Vendor A,PO1317,Purchase,20.36%,Justification_A,No,01-11-24,No,Server Maintenance,No
+T251,03-10-24,13110.54,Vendor E,PO1807,Invoice,15.30%,Special promotion applied,Yes,18-10-24,Yes,IT Equipment,No
+T252,06-08-24,11633.56,Vendor C,PO1541,Purchase,24.66%,Special promotion applied,Yes,14-08-24,Yes,Consulting Services,No
+T253,14-10-24,3990.76,Vendor A,PO1317,Purchase,20.36%,Special promotion applied,No,01-11-24,No,Server Maintenance,No
 T254,08-08-24,9113.19,Vendor H,PO1505,Purchase,22.56%,,No,11-08-24,Yes,Projector,No
 T255,01-10-24,3974.34,Vendor F,PO1050,Invoice,7.99%,,Yes,04-10-24,Yes,Consulting Services,No
 T256,05-10-24,10810.94,Vendor I,PO1273,Purchase,24.24%,,No,11-10-24,No,Conference Room Setup,No
-T257,16-07-24,13679.38,Vendor A,PO1224,Invoice,15.02%,Justification_A,Yes,21-07-24,Yes,Security System Installation,No
-T258,07-10-24,13823.45,Vendor F,PO1689,Invoice,16.44%,Justification_A,No,15-10-24,No,Office Computers,No
+T257,16-07-24,13679.38,Vendor A,PO1224,Invoice,15.02%,Special promotion applied,Yes,21-07-24,Yes,Security System Installation,No
+T258,07-10-24,13823.45,Vendor F,PO1689,Invoice,16.44%,Special promotion applied,No,15-10-24,No,Office Computers,No
 T259,08-09-24,4388.5,Vendor B,PO1903,Invoice,21.84%,,Yes,19-09-24,No,Projector,No
-T260,20-07-24,4414.43,Vendor D,PO1235,Invoice,16.98%,Justification_B,Yes,26-07-24,No,Conference Room Setup,No
+T260,20-07-24,4414.43,Vendor D,PO1235,Invoice,16.98%,Special promotion applied,Yes,26-07-24,No,Conference Room Setup,No
 T261,03-07-24,9549.18,Vendor A,PO1163,Invoice,4.91%,,No,10-07-24,Yes,Printer Supplies,No
-T262,03-10-24,13111.82,Vendor E,PO1812,Purchase,17.11%,Justification_A,Yes,05-11-24,Yes,Consulting Services,No
+T262,03-10-24,13111.82,Vendor E,PO1812,Purchase,17.11%,Special promotion applied,Yes,05-11-24,Yes,Consulting Services,No
 T263,08-07-24,10358.52,Vendor D,PO1490,Invoice,8.14%,,Yes,12-07-24,No,Projector,No
-T264,02-09-24,4099.65,Vendor B,PO1189,Invoice,24.24%,Justification_C,Yes,01-10-24,Yes,Laptops,No
+T264,02-09-24,4099.65,Vendor B,PO1189,Invoice,24.24%,Special promotion applied,Yes,01-10-24,Yes,Laptops,No
 T265,03-09-24,14346.11,Vendor B,PO1017,Invoice,22.66%,,No,05-10-24,Yes,Security System Installation,No
 T266,27-07-24,8076.34,Vendor G,PO1325,Invoice,2.94%,,Yes,29-08-24,No,Conference Room Setup,No
 T267,08-07-24,6804.29,Vendor C,PO1518,Purchase,12.14%,,No,26-07-24,No,Laptops,No
@@ -270,11 +270,11 @@ T268,18-09-24,11765.06,Vendor D,PO1180,Invoice,6.15%,,No,21-10-24,Yes,IT Equipme
 T269,27-09-24,5443.82,Vendor G,PO1289,Purchase,11.44%,,No,04-10-24,No,Server Maintenance,No
 T270,07-08-24,2884.49,Vendor E,PO1318,Invoice,1.65%,,No,17-08-24,No,Printer Supplies,No
 T271,09-10-24,10018.25,Vendor C,PO1011,Purchase,7.66%,,No,13-11-24,Yes,Consulting Services,No
-T272,11-08-24,5078.6,Vendor D,PO1273,Purchase,15.58%,Justification_A,No,06-09-24,Yes,Office Computers,No
-T273,31-07-24,10367.31,Vendor C,PO1272,Purchase,22.25%,Justification_B,Yes,27-08-24,No,Printer Supplies,No
+T272,11-08-24,5078.6,Vendor D,PO1273,Purchase,15.58%,Special promotion applied,No,06-09-24,Yes,Office Computers,No
+T273,31-07-24,10367.31,Vendor C,PO1272,Purchase,22.25%,Special promotion applied,Yes,27-08-24,No,Printer Supplies,No
 T274,26-08-24,12055.33,Vendor I,PO1142,Invoice,1.35%,,Yes,04-09-24,Yes,Projector,No
 T275,18-07-24,2473.61,Vendor A,PO1933,Invoice,1.00%,,No,10-08-24,No,IT Equipment,No
-T276,05-09-24,3472.79,Vendor C,PO1549,Invoice,24.76%,Justification_C,No,18-09-24,Yes,Printer Supplies,No
+T276,05-09-24,3472.79,Vendor C,PO1549,Invoice,24.76%,Special promotion applied,No,18-09-24,Yes,Printer Supplies,No
 T277,11-09-24,8529.23,Vendor H,PO1307,Purchase,12.91%,,Yes,06-10-24,No,Security System Installation,No
 T278,02-09-24,9371.28,Vendor I,PO1160,Invoice,9.89%,,Yes,08-09-24,No,Projector,No
 T279,05-08-24,4736.68,Vendor A,PO1740,Invoice,5.49%,,No,05-09-24,No,Security System Installation,No
@@ -283,37 +283,37 @@ T281,28-07-24,4792.36,Vendor B,PO1943,Purchase,2.54%,,No,02-08-24,Yes,Office Com
 T282,10-10-24,10461.4,Vendor A,PO1966,Invoice,11.87%,,No,19-10-24,No,IT Equipment,No
 T283,24-09-24,8792.37,Vendor G,PO1545,Purchase,13.59%,,No,23-10-24,Yes,Printer Supplies,No
 T284,28-07-24,2080.76,Vendor C,PO1282,Invoice,11.72%,,No,04-08-24,Yes,Server Maintenance,No
-T285,10-09-24,5746.18,Vendor B,PO1150,Purchase,16.28%,Justification_A,No,18-09-24,No,Conference Room Setup,No
+T285,10-09-24,5746.18,Vendor B,PO1150,Purchase,16.28%,Special promotion applied,No,18-09-24,No,Conference Room Setup,No
 T286,06-09-24,4486.08,Vendor F,PO1199,Invoice,9.66%,,No,03-10-24,Yes,Software Subscription,No
-T287,12-07-24,6433.13,Vendor C,PO1745,Invoice,20.40%,Justification_A,Yes,13-07-24,Yes,Projector,No
+T287,12-07-24,6433.13,Vendor C,PO1745,Invoice,20.40%,Special promotion applied,Yes,13-07-24,Yes,Projector,No
 T288,20-08-24,3876.83,Vendor G,PO1881,Invoice,10.92%,,No,01-09-24,No,IT Equipment,No
 T289,27-09-24,3023.66,Vendor C,PO1025,Purchase,1.61%,,Yes,16-10-24,No,Consulting Services,No
-T290,09-08-24,2699.92,Vendor F,PO1735,Invoice,17.66%,Justification_A,Yes,31-08-24,No,Printer Supplies,No
+T290,09-08-24,2699.92,Vendor F,PO1735,Invoice,17.66%,Special promotion applied,Yes,31-08-24,No,Printer Supplies,No
 T291,26-08-24,14409.27,Vendor D,PO1298,Purchase,4.97%,,Yes,30-09-24,No,IT Equipment,No
-T292,12-07-24,5246.71,Vendor A,PO1153,Invoice,18.58%,Justification_A,No,13-08-24,Yes,Printer Supplies,No
-T293,12-07-24,10553.08,Vendor C,PO1542,Purchase,19.09%,Justification_A,Yes,16-08-24,Yes,Laptops,No
-T294,14-10-24,11304.85,Vendor A,PO1201,Purchase,16.03%,Justification_A,Yes,16-11-24,Yes,Printer Supplies,No
-T295,06-07-24,12839.84,Vendor H,PO1394,Invoice,20.01%,Justification_B,No,28-07-24,No,Projector,No
-T296,23-09-24,7746.1,Vendor D,PO1794,Purchase,16.08%,Justification_A,Yes,24-10-24,No,Security System Installation,No
+T292,12-07-24,5246.71,Vendor A,PO1153,Invoice,18.58%,Special promotion applied,No,13-08-24,Yes,Printer Supplies,No
+T293,12-07-24,10553.08,Vendor C,PO1542,Purchase,19.09%,Special promotion applied,Yes,16-08-24,Yes,Laptops,No
+T294,14-10-24,11304.85,Vendor A,PO1201,Purchase,16.03%,Special promotion applied,Yes,16-11-24,Yes,Printer Supplies,No
+T295,06-07-24,12839.84,Vendor H,PO1394,Invoice,20.01%,Special promotion applied,No,28-07-24,No,Projector,No
+T296,23-09-24,7746.1,Vendor D,PO1794,Purchase,16.08%,Special promotion applied,Yes,24-10-24,No,Security System Installation,No
 T297,29-09-24,7327.19,Vendor H,PO1539,Purchase,7.62%,,No,02-10-24,Yes,Consulting Services,No
-T298,12-07-24,4826.52,Vendor D,PO1693,Purchase,24.75%,Justification_C,No,05-08-24,Yes,Projector,No
-T299,01-07-24,6557.61,Vendor G,PO1247,Invoice,23.29%,Justification_B,No,12-07-24,Yes,Server Maintenance,No
-T300,17-09-24,3232.58,Vendor B,PO1830,Purchase,15.79%,Justification_B,No,13-10-24,Yes,Office Computers,No
+T298,12-07-24,4826.52,Vendor D,PO1693,Purchase,24.75%,Special promotion applied,No,05-08-24,Yes,Projector,No
+T299,01-07-24,6557.61,Vendor G,PO1247,Invoice,23.29%,Special promotion applied,No,12-07-24,Yes,Server Maintenance,No
+T300,17-09-24,3232.58,Vendor B,PO1830,Purchase,15.79%,Special promotion applied,No,13-10-24,Yes,Office Computers,No
 T301,25-09-24,2859.53,Vendor C,PO1411,Purchase,14.27%,,No,27-10-24,Yes,IT Equipment,No
-T302,13-08-24,6359.09,Vendor F,PO1530,Purchase,23.42%,Justification_B,Yes,16-09-24,Yes,Server Maintenance,No
-T303,05-10-24,5625.04,Vendor A,PO1775,Purchase,19.33%,Justification_A,No,17-10-24,Yes,Software Subscription,No
+T302,13-08-24,6359.09,Vendor F,PO1530,Purchase,23.42%,Special promotion applied,Yes,16-09-24,Yes,Server Maintenance,No
+T303,05-10-24,5625.04,Vendor A,PO1775,Purchase,19.33%,Special promotion applied,No,17-10-24,Yes,Software Subscription,No
 T304,02-10-24,11554.22,Vendor G,PO1978,Invoice,0.39%,,No,01-11-24,No,IT Equipment,No
 T305,08-10-24,5099.84,Vendor F,PO1194,Purchase,13.34%,,No,13-10-24,No,Projector,No
 T306,21-09-24,12136.68,Vendor I,PO1989,Purchase,12.79%,,No,16-10-24,No,Laptops,No
-T307,31-08-24,5512.38,Vendor C,PO1506,Invoice,16.68%,Justification_A,No,05-10-24,No,Laptops,No
+T307,31-08-24,5512.38,Vendor C,PO1506,Invoice,16.68%,Special promotion applied,No,05-10-24,No,Laptops,No
 T308,02-07-24,2650.56,Vendor E,PO1697,Invoice,0.61%,,Yes,10-07-24,No,Projector,No
 T309,02-08-24,2051.27,Vendor A,PO1515,Purchase,12.87%,,Yes,27-08-24,No,Printer Supplies,No
-T310,21-09-24,12152,Vendor G,PO1116,Invoice,18.51%,Justification_A,Yes,21-09-24,No,Server Maintenance,No
+T310,21-09-24,12152,Vendor G,PO1116,Invoice,18.51%,Special promotion applied,Yes,21-09-24,No,Server Maintenance,No
 T311,11-08-24,6986.26,Vendor H,PO1755,Purchase,9.49%,,No,20-08-24,Yes,Projector,No
 T312,20-08-24,8789.88,Vendor A,PO1632,Purchase,1.22%,,Yes,22-09-24,Yes,IT Equipment,No
 T313,06-08-24,2730.5,Vendor G,PO1633,Invoice,12.07%,,No,16-08-24,Yes,Projector,No
-T314,24-08-24,3105.84,Vendor F,PO1108,Invoice,20.41%,Justification_B,Yes,27-09-24,No,Printer Supplies,No
-T315,03-07-24,7960.72,Vendor C,PO1396,Purchase,19.49%,Justification_A,Yes,05-08-24,Yes,Conference Room Setup,No
+T314,24-08-24,3105.84,Vendor F,PO1108,Invoice,20.41%,Special promotion applied,Yes,27-09-24,No,Printer Supplies,No
+T315,03-07-24,7960.72,Vendor C,PO1396,Purchase,19.49%,Special promotion applied,Yes,05-08-24,Yes,Conference Room Setup,No
 T316,19-07-24,13267.7,Vendor F,PO1120,Purchase,12.71%,,Yes,19-08-24,No,Security System Installation,No
 T317,07-09-24,10746.25,Vendor G,PO1167,Purchase,7.63%,,No,17-09-24,Yes,Software Subscription,No
 T318,01-07-24,3361.23,Vendor G,PO1007,Invoice,1.24%,,No,18-07-24,Yes,Office Computers,No
@@ -322,24 +322,24 @@ T320,19-08-24,14794.66,Vendor B,PO1979,Purchase,0.33%,,Yes,06-09-24,No,Consultin
 T321,10-08-24,13821.09,Vendor I,PO1268,Invoice,2.20%,,Yes,03-09-24,Yes,Consulting Services,No
 T322,08-08-24,6615.73,Vendor D,PO1891,Invoice,1.39%,,Yes,10-08-24,No,Conference Room Setup,No
 T323,06-10-24,12194.85,Vendor A,PO1253,Purchase,4.32%,,No,12-10-24,No,Security System Installation,No
-T324,21-07-24,9742.71,Vendor H,PO1654,Purchase,19.70%,Justification_A,No,04-08-24,Yes,Software Subscription,No
+T324,21-07-24,9742.71,Vendor H,PO1654,Purchase,19.70%,Special promotion applied,No,04-08-24,Yes,Software Subscription,No
 T325,23-08-24,8508.75,Vendor D,PO1156,Purchase,3.40%,,No,05-09-24,No,Consulting Services,No
 T326,01-07-24,4745.43,Vendor C,PO1446,Purchase,10.44%,,No,04-07-24,No,IT Equipment,No
 T327,12-09-24,5244.72,Vendor B,PO1051,Invoice,14.59%,,No,07-10-24,No,Laptops,No
-T328,10-07-24,10177.6,Vendor D,PO1742,Invoice,18.74%,Justification_A,No,20-07-24,No,IT Equipment,No
-T329,17-07-24,3329.95,Vendor I,PO1667,Invoice,21.35%,Justification_A,Yes,20-08-24,Yes,Laptops,No
+T328,10-07-24,10177.6,Vendor D,PO1742,Invoice,18.74%,Special promotion applied,No,20-07-24,No,IT Equipment,No
+T329,17-07-24,3329.95,Vendor I,PO1667,Invoice,21.35%,Special promotion applied,Yes,20-08-24,Yes,Laptops,No
 T330,17-10-24,2231.31,Vendor E,PO1882,Purchase,7.67%,,Yes,05-11-24,No,IT Equipment,No
 T331,27-08-24,8453.33,Vendor I,PO1610,Purchase,8.97%,,Yes,01-09-24,Yes,Printer Supplies,No
-T332,10-09-24,7891.65,Vendor D,PO1320,Purchase,15.08%,Justification_A,No,20-09-24,No,Consulting Services,No
+T332,10-09-24,7891.65,Vendor D,PO1320,Purchase,15.08%,Special promotion applied,No,20-09-24,No,Consulting Services,No
 T333,03-07-24,3528.37,Vendor E,PO1749,Invoice,11.61%,,No,27-07-24,Yes,Conference Room Setup,No
 T334,05-10-24,11806.92,Vendor H,PO1873,Purchase,24.49%,,No,23-10-24,Yes,Software Subscription,No
-T335,15-10-24,3236.99,Vendor E,PO1794,Purchase,16.57%,Justification_A,No,29-10-24,No,Office Computers,No
-T336,01-07-24,12998.18,Vendor E,PO1410,Purchase,18.99%,Justification_A,No,16-07-24,Yes,Server Maintenance,No
-T337,27-08-24,13973.19,Vendor G,PO1461,Purchase,21.02%,Justification_A,No,04-09-24,Yes,Office Computers,No
+T335,15-10-24,3236.99,Vendor E,PO1794,Purchase,16.57%,Special promotion applied,No,29-10-24,No,Office Computers,No
+T336,01-07-24,12998.18,Vendor E,PO1410,Purchase,18.99%,Special promotion applied,No,16-07-24,Yes,Server Maintenance,No
+T337,27-08-24,13973.19,Vendor G,PO1461,Purchase,21.02%,Special promotion applied,No,04-09-24,Yes,Office Computers,No
 T338,04-08-24,6360.05,Vendor D,PO1871,Invoice,9.43%,,No,18-08-24,No,Printer Supplies,No
 T339,15-09-24,8218.7,Vendor G,PO1773,Purchase,12.74%,,Yes,15-10-24,No,Office Computers,No
 T340,07-07-24,12953.18,Vendor B,PO1788,Purchase,4.14%,,Yes,27-07-24,No,Server Maintenance,No
-T341,13-09-24,10596.52,Vendor H,PO1716,Invoice,16.92%,Justification_A,Yes,26-09-24,No,Laptops,No
+T341,13-09-24,10596.52,Vendor H,PO1716,Invoice,16.92%,Special promotion applied,Yes,26-09-24,No,Laptops,No
 T342,14-10-24,8220.36,Vendor D,PO1017,Invoice,5.64%,,No,28-10-24,Yes,IT Equipment,No
 T343,07-07-24,6306.85,Vendor E,PO1926,Purchase,4.82%,,Yes,04-08-24,Yes,Printer Supplies,No
 T344,11-10-24,11378.19,Vendor H,PO1700,Invoice,9.04%,,Yes,20-10-24,No,Software Subscription,No
@@ -352,83 +352,83 @@ T350,19-07-24,11797.15,Vendor D,PO1192,Invoice,1.46%,,Yes,19-07-24,No,Security S
 T351,26-07-24,9954.2,Vendor E,PO1726,Invoice,7.07%,,Yes,31-07-24,No,Laptops,No
 T352,13-09-24,11324.39,Vendor E,PO1173,Invoice,6.49%,,Yes,13-09-24,No,Printer Supplies,No
 T353,31-07-24,14771.68,Vendor F,PO1118,Invoice,3.59%,,No,19-08-24,No,Projector,No
-T354,08-07-24,11192.94,Vendor D,PO1035,Invoice,19.46%,Justification_A,Yes,24-07-24,Yes,Server Maintenance,No
-T355,26-08-24,9642.28,Vendor D,PO1688,Invoice,15.58%,Justification_A,Yes,04-09-24,No,Laptops,No
+T354,08-07-24,11192.94,Vendor D,PO1035,Invoice,19.46%,Special promotion applied,Yes,24-07-24,Yes,Server Maintenance,No
+T355,26-08-24,9642.28,Vendor D,PO1688,Invoice,15.58%,Special promotion applied,Yes,04-09-24,No,Laptops,No
 T356,14-07-24,12098.94,Vendor H,PO1967,Purchase,3.47%,,Yes,11-08-24,Yes,Software Subscription,No
-T357,23-09-24,7019.49,Vendor E,PO1839,Invoice,17.54%,Justification_A,Yes,29-09-24,Yes,Laptops,No
+T357,23-09-24,7019.49,Vendor E,PO1839,Invoice,17.54%,Special promotion applied,Yes,29-09-24,Yes,Laptops,No
 T358,02-08-24,10673.41,Vendor D,PO1564,Invoice,8.01%,,Yes,16-08-24,No,Office Computers,No
 T359,24-08-24,14260.6,Vendor I,PO1780,Invoice,9.31%,,No,22-09-24,Yes,Security System Installation,No
-T360,27-09-24,11449.7,Vendor C,PO1463,Invoice,18.59%,Justification_A,Yes,20-10-24,No,IT Equipment,No
-T361,14-10-24,2464.15,Vendor G,PO1718,Purchase,18.19%,Justification_A,Yes,03-11-24,Yes,Server Maintenance,No
-T362,09-07-24,12321.05,Vendor H,PO1862,Purchase,23.12%,Justification_B,No,15-07-24,No,Conference Room Setup,No
+T360,27-09-24,11449.7,Vendor C,PO1463,Invoice,18.59%,Special promotion applied,Yes,20-10-24,No,IT Equipment,No
+T361,14-10-24,2464.15,Vendor G,PO1718,Purchase,18.19%,Special promotion applied,Yes,03-11-24,Yes,Server Maintenance,No
+T362,09-07-24,12321.05,Vendor H,PO1862,Purchase,23.12%,Special promotion applied,No,15-07-24,No,Conference Room Setup,No
 T363,30-09-24,3825.66,Vendor B,PO1289,Purchase,21.19%,,Yes,08-10-24,No,Consulting Services,No
 T364,11-10-24,3404.58,Vendor E,PO1010,Purchase,10.10%,,No,27-10-24,No,Laptops,No
-T365,05-07-24,3596.67,Vendor D,PO1503,Invoice,16.98%,Justification_A,Yes,19-07-24,Yes,Conference Room Setup,No
+T365,05-07-24,3596.67,Vendor D,PO1503,Invoice,16.98%,Special promotion applied,Yes,19-07-24,Yes,Conference Room Setup,No
 T366,11-07-24,14697.58,Vendor E,PO1137,Invoice,5.84%,,Yes,11-07-24,No,Laptops,No
 T367,09-08-24,11695.05,Vendor C,PO1381,Purchase,4.38%,,Yes,13-08-24,Yes,IT Equipment,No
-T368,12-07-24,2345.54,Vendor C,PO1954,Invoice,16.55%,Justification_B,No,26-07-24,Yes,Security System Installation,No
+T368,12-07-24,2345.54,Vendor C,PO1954,Invoice,16.55%,Special promotion applied,No,26-07-24,Yes,Security System Installation,No
 T369,14-08-24,11666.1,Vendor I,PO1421,Purchase,13.73%,,No,12-09-24,No,Conference Room Setup,No
-T370,10-08-24,3704.71,Vendor F,PO1796,Invoice,24.66%,Justification_C,Yes,10-09-24,Yes,IT Equipment,No
+T370,10-08-24,3704.71,Vendor F,PO1796,Invoice,24.66%,Special promotion applied,Yes,10-09-24,Yes,IT Equipment,No
 T371,01-08-24,11918.58,Vendor C,PO1353,Purchase,13.51%,,Yes,10-08-24,Yes,Projector,No
-T372,15-08-24,3348.19,Vendor E,PO1577,Purchase,23.23%,Justification_B,Yes,19-08-24,Yes,IT Equipment,No
-T373,21-08-24,6365.54,Vendor A,PO1812,Purchase,20.99%,Justification_B,No,14-09-24,Yes,Office Computers,No
+T372,15-08-24,3348.19,Vendor E,PO1577,Purchase,23.23%,Special promotion applied,Yes,19-08-24,Yes,IT Equipment,No
+T373,21-08-24,6365.54,Vendor A,PO1812,Purchase,20.99%,Special promotion applied,No,14-09-24,Yes,Office Computers,No
 T374,06-08-24,3829.37,Vendor A,PO1128,Purchase,0.09%,,Yes,25-08-24,No,Server Maintenance,No
 T375,07-07-24,10697.53,Vendor E,PO1493,Purchase,0.68%,,No,23-07-24,Yes,Security System Installation,No
-T376,18-08-24,5782.95,Vendor D,PO1204,Purchase,23.60%,Justification_A,Yes,22-08-24,No,IT Equipment,No
+T376,18-08-24,5782.95,Vendor D,PO1204,Purchase,23.60%,Special promotion applied,Yes,22-08-24,No,IT Equipment,No
 T377,25-07-24,3043.15,Vendor A,PO1314,Purchase,9.50%,,No,02-08-24,No,Laptops,No
 T378,23-08-24,14217.73,Vendor F,PO1712,Purchase,11.87%,,No,24-09-24,Yes,Security System Installation,No
 T379,16-09-24,4294.41,Vendor D,PO1476,Purchase,11.68%,,Yes,05-10-24,Yes,Security System Installation,No
 T380,21-07-24,2601.6,Vendor A,PO1146,Purchase,2.29%,,No,25-08-24,Yes,Laptops,No
-T381,27-07-24,7647.5,Vendor B,PO1365,Purchase,23.89%,Justification_C,Yes,18-08-24,Yes,Security System Installation,No
+T381,27-07-24,7647.5,Vendor B,PO1365,Purchase,23.89%,Special promotion applied,Yes,18-08-24,Yes,Security System Installation,No
 T382,22-08-24,3772.13,Vendor H,PO1445,Purchase,8.84%,,Yes,15-09-24,No,Conference Room Setup,No
 T383,25-09-24,3053.16,Vendor F,PO1934,Purchase,1.40%,,Yes,25-10-24,No,IT Equipment,No
 T384,07-08-24,12369.47,Vendor C,PO1548,Invoice,1.12%,,No,08-08-24,Yes,Office Computers,No
-T385,03-07-24,6134.86,Vendor A,PO1770,Invoice,17.56%,Justification_A,No,01-08-24,Yes,Office Computers,No
+T385,03-07-24,6134.86,Vendor A,PO1770,Invoice,17.56%,Special promotion applied,No,01-08-24,Yes,Office Computers,No
 T386,02-09-24,9827.41,Vendor B,PO1419,Invoice,7.25%,,Yes,22-09-24,No,IT Equipment,No
-T387,28-07-24,8256.08,Vendor I,PO1150,Purchase,20.03%,Justification_A,No,29-07-24,No,Consulting Services,No
+T387,28-07-24,8256.08,Vendor I,PO1150,Purchase,20.03%,Special promotion applied,No,29-07-24,No,Consulting Services,No
 T388,14-09-24,3413.16,Vendor F,PO1738,Purchase,6.09%,,Yes,10-10-24,Yes,IT Equipment,No
 T389,10-08-24,2949.63,Vendor D,PO1880,Invoice,13.36%,,Yes,13-09-24,Yes,Projector,No
 T390,25-08-24,4122.86,Vendor C,PO1348,Purchase,8.50%,,Yes,12-09-24,Yes,Projector,No
-T391,31-07-24,5591.79,Vendor H,PO1098,Purchase,15.76%,Justification_A,Yes,23-08-24,Yes,Software Subscription,No
-T392,10-10-24,7621.9,Vendor A,PO1397,Invoice,18.25%,Justification_A,Yes,03-11-24,Yes,Server Maintenance,No
-T393,17-10-24,12154.57,Vendor I,PO1613,Invoice,22.82%,Justification_A,Yes,20-11-24,Yes,Printer Supplies,No
-T394,27-07-24,6565.92,Vendor F,PO1945,Purchase,22.97%,Justification_A,Yes,22-08-24,Yes,Conference Room Setup,No
-T395,08-09-24,10258.64,Vendor B,PO1028,Purchase,22.18%,Justification_A,Yes,13-09-24,Yes,Printer Supplies,No
-T396,02-07-24,12505.42,Vendor F,PO1988,Purchase,19.03%,Justification_A,No,01-08-24,No,Projector,No
+T391,31-07-24,5591.79,Vendor H,PO1098,Purchase,15.76%,Special promotion applied,Yes,23-08-24,Yes,Software Subscription,No
+T392,10-10-24,7621.9,Vendor A,PO1397,Invoice,18.25%,Special promotion applied,Yes,03-11-24,Yes,Server Maintenance,No
+T393,17-10-24,12154.57,Vendor I,PO1613,Invoice,22.82%,Special promotion applied,Yes,20-11-24,Yes,Printer Supplies,No
+T394,27-07-24,6565.92,Vendor F,PO1945,Purchase,22.97%,Special promotion applied,Yes,22-08-24,Yes,Conference Room Setup,No
+T395,08-09-24,10258.64,Vendor B,PO1028,Purchase,22.18%,Special promotion applied,Yes,13-09-24,Yes,Printer Supplies,No
+T396,02-07-24,12505.42,Vendor F,PO1988,Purchase,19.03%,Special promotion applied,No,01-08-24,No,Projector,No
 T397,26-09-24,8292.63,Vendor C,PO1696,Invoice,11.44%,,No,11-10-24,No,Security System Installation,No
-T398,16-07-24,10917.77,Vendor E,PO1873,Purchase,19.34%,Justification_A,No,15-08-24,No,Consulting Services,No
+T398,16-07-24,10917.77,Vendor E,PO1873,Purchase,19.34%,Special promotion applied,No,15-08-24,No,Consulting Services,No
 T399,04-08-24,11554.42,Vendor E,PO1654,Purchase,9.05%,,Yes,06-08-24,No,Projector,No
 T400,04-08-24,5934.98,Vendor F,PO1842,Purchase,12.59%,,No,02-09-24,No,Laptops,No
-T401,04-08-24,11867.52,Vendor I,PO1986,Purchase,23.29%,Justification_B,Yes,26-08-24,Yes,IT Equipment,No
+T401,04-08-24,11867.52,Vendor I,PO1986,Purchase,23.29%,Special promotion applied,Yes,26-08-24,Yes,IT Equipment,No
 T402,05-07-24,7224.02,Vendor B,PO1323,Purchase,9.45%,,No,10-07-24,No,Conference Room Setup,No
 T403,07-10-24,10321.48,Vendor C,PO1435,Invoice,5.98%,,No,29-10-24,Yes,Laptops,No
 T404,02-07-24,9543.33,Vendor F,PO1728,Invoice,0.85%,,No,19-07-24,No,Projector,No
-T405,01-10-24,2756.26,Vendor G,PO1892,Invoice,23.60%,Justification_A,No,03-11-24,No,Conference Room Setup,No
+T405,01-10-24,2756.26,Vendor G,PO1892,Invoice,23.60%,Special promotion applied,No,03-11-24,No,Conference Room Setup,No
 T406,09-10-24,8753.55,Vendor I,PO1120,Purchase,0.58%,,Yes,01-11-24,Yes,Office Computers,No
 T407,31-08-24,7130.04,Vendor G,PO1225,Purchase,11.77%,,No,28-09-24,No,Printer Supplies,No
 T408,11-07-24,2721.6,Vendor H,PO1315,Invoice,5.80%,,No,27-07-24,No,Security System Installation,No
 T409,03-07-24,7509.99,Vendor F,PO1650,Invoice,2.15%,,No,28-07-24,Yes,Software Subscription,No
-T410,02-10-24,10160,Vendor F,PO1951,Invoice,21.43%,Justification_B,No,09-10-24,No,IT Equipment,No
+T410,02-10-24,10160,Vendor F,PO1951,Invoice,21.43%,Special promotion applied,No,09-10-24,No,IT Equipment,No
 T411,10-09-24,11747.87,Vendor E,PO1369,Purchase,9.30%,,Yes,03-10-24,Yes,Server Maintenance,No
-T412,29-07-24,11013.75,Vendor B,PO1173,Purchase,16.87%,Justification_A,Yes,21-08-24,Yes,Projector,No
+T412,29-07-24,11013.75,Vendor B,PO1173,Purchase,16.87%,Special promotion applied,Yes,21-08-24,Yes,Projector,No
 T413,03-07-24,6344.3,Vendor D,PO1255,Purchase,9.70%,,No,04-08-24,Yes,Security System Installation,No
 T414,16-08-24,3077.84,Vendor E,PO1154,Purchase,6.34%,,No,29-08-24,Yes,Printer Supplies,No
-T415,03-09-24,9410.23,Vendor A,PO1435,Purchase,16.18%,Justification_A,Yes,08-10-24,Yes,Software Subscription,No
+T415,03-09-24,9410.23,Vendor A,PO1435,Purchase,16.18%,Special promotion applied,Yes,08-10-24,Yes,Software Subscription,No
 T416,08-08-24,10895.74,Vendor F,PO1535,Invoice,10.78%,,Yes,26-08-24,No,Laptops,No
 T417,01-09-24,4888.88,Vendor E,PO1274,Purchase,14.90%,,No,09-09-24,Yes,Software Subscription,No
 T418,13-08-24,4639.03,Vendor A,PO1342,Purchase,4.49%,,No,24-08-24,No,Server Maintenance,No
-T419,17-07-24,11010.66,Vendor E,PO1140,Purchase,21.39%,Justification_A,No,30-07-24,No,Server Maintenance,No
-T420,14-08-24,5951.87,Vendor A,PO1089,Invoice,18.82%,Justification_A,Yes,14-08-24,No,Software Subscription,No
-T421,27-07-24,11994.63,Vendor C,PO1838,Purchase,15.91%,Justification_A,Yes,15-08-24,Yes,Printer Supplies,No
+T419,17-07-24,11010.66,Vendor E,PO1140,Purchase,21.39%,Special promotion applied,No,30-07-24,No,Server Maintenance,No
+T420,14-08-24,5951.87,Vendor A,PO1089,Invoice,18.82%,Special promotion applied,Yes,14-08-24,No,Software Subscription,No
+T421,27-07-24,11994.63,Vendor C,PO1838,Purchase,15.91%,Special promotion applied,Yes,15-08-24,Yes,Printer Supplies,No
 T422,26-09-24,11080.21,Vendor A,PO1396,Invoice,2.79%,,Yes,05-10-24,No,Server Maintenance,No
-T423,15-07-24,7177.91,Vendor A,PO1735,Invoice,23.77%,Justification_A,No,17-07-24,Yes,Software Subscription,No
-T424,17-08-24,12314.22,Vendor I,PO1742,Purchase,17.66%,Justification_A,No,31-08-24,No,Security System Installation,No
-T425,05-07-24,8390.26,Vendor I,PO1831,Invoice,17.56%,Justification_A,Yes,07-07-24,No,Office Computers,No
+T423,15-07-24,7177.91,Vendor A,PO1735,Invoice,23.77%,Special promotion applied,No,17-07-24,Yes,Software Subscription,No
+T424,17-08-24,12314.22,Vendor I,PO1742,Purchase,17.66%,Special promotion applied,No,31-08-24,No,Security System Installation,No
+T425,05-07-24,8390.26,Vendor I,PO1831,Invoice,17.56%,Special promotion applied,Yes,07-07-24,No,Office Computers,No
 T426,12-08-24,6889.34,Vendor D,PO1156,Invoice,9.58%,,Yes,28-08-24,No,Printer Supplies,No
 T427,08-09-24,13594.07,Vendor A,PO1215,Invoice,2.62%,,Yes,16-09-24,Yes,Office Computers,No
-T428,08-10-24,11875.15,Vendor G,PO1495,Invoice,22.31%,Justification_A,No,13-10-24,Yes,Projector,No
+T428,08-10-24,11875.15,Vendor G,PO1495,Invoice,22.31%,Special promotion applied,No,13-10-24,Yes,Projector,No
 T429,16-09-24,8427.51,Vendor B,PO1287,Purchase,10.66%,,Yes,19-09-24,No,Security System Installation,No
-T430,01-07-24,4841.08,Vendor G,PO1466,Purchase,19.78%,Justification_A,No,25-07-24,No,Laptops,No
+T430,01-07-24,4841.08,Vendor G,PO1466,Purchase,19.78%,Special promotion applied,No,25-07-24,No,Laptops,No
 T431,08-08-24,11458.93,Vendor B,PO1415,Invoice,7.21%,,Yes,27-08-24,Yes,Printer Supplies,No
 T432,31-08-24,8302.53,Vendor I,PO1815,Invoice,3.77%,,Yes,10-09-24,Yes,Projector,No
 T433,13-09-24,10787.7,Vendor C,PO1376,Invoice,20.50%,,No,12-10-24,Yes,Server Maintenance,No
@@ -442,20 +442,20 @@ T440,04-07-24,4204.69,Vendor C,PO1046,Invoice,7.80%,,Yes,17-07-24,Yes,Consulting
 T441,26-07-24,10480.56,Vendor H,PO1805,Invoice,21.69%,,No,23-08-24,No,Office Computers,No
 T442,09-09-24,13990.47,Vendor H,PO1706,Purchase,14.31%,,No,24-09-24,No,Security System Installation,No
 T443,20-09-24,10518.48,Vendor B,PO1883,Purchase,14.96%,,Yes,19-10-24,No,IT Equipment,No
-T444,19-08-24,14672.91,Vendor D,PO1119,Invoice,18.67%,Justification_A,No,27-08-24,Yes,Conference Room Setup,No
-T445,03-08-24,4826.64,Vendor E,PO1601,Purchase,24.85%,Justification_C,No,15-08-24,Yes,Conference Room Setup,No
+T444,19-08-24,14672.91,Vendor D,PO1119,Invoice,18.67%,Special promotion applied,No,27-08-24,Yes,Conference Room Setup,No
+T445,03-08-24,4826.64,Vendor E,PO1601,Purchase,24.85%,Special promotion applied,No,15-08-24,Yes,Conference Room Setup,No
 T446,03-09-24,2139.26,Vendor D,PO1628,Invoice,2.08%,,No,04-09-24,Yes,IT Equipment,No
 T447,24-07-24,11409.52,Vendor D,PO1185,Purchase,1.50%,,No,05-08-24,Yes,Server Maintenance,No
 T448,13-08-24,5765.76,Vendor F,PO1284,Purchase,21.34%,,Yes,13-08-24,Yes,Laptops,No
 T449,06-09-24,10147.07,Vendor E,PO1907,Purchase,1.72%,,Yes,20-09-24,No,Printer Supplies,No
 T450,09-09-24,2029.5,Vendor F,PO1678,Invoice,13.63%,,Yes,22-09-24,Yes,Security System Installation,No
-T451,01-10-24,14982.48,Vendor I,PO1818,Invoice,19.78%,Justification_A,Yes,03-10-24,Yes,Software Subscription,No
+T451,01-10-24,14982.48,Vendor I,PO1818,Invoice,19.78%,Special promotion applied,Yes,03-10-24,Yes,Software Subscription,No
 T452,11-10-24,11000.16,Vendor D,PO1548,Invoice,13.21%,,Yes,02-11-24,Yes,Office Computers,No
-T453,21-09-24,13590.43,Vendor D,PO1895,Purchase,23.86%,Justification_C,No,25-09-24,No,Conference Room Setup,No
+T453,21-09-24,13590.43,Vendor D,PO1895,Purchase,23.86%,Special promotion applied,No,25-09-24,No,Conference Room Setup,No
 T454,13-07-24,12107.77,Vendor C,PO1294,Purchase,20.78%,,No,30-07-24,Yes,Consulting Services,No
-T455,10-08-24,10236.54,Vendor D,PO1972,Purchase,15.61%,Justification_A,Yes,27-08-24,No,Conference Room Setup,No
+T455,10-08-24,10236.54,Vendor D,PO1972,Purchase,15.61%,Special promotion applied,Yes,27-08-24,No,Conference Room Setup,No
 T456,08-08-24,8093.93,Vendor B,PO1102,Invoice,20.63%,,No,11-08-24,No,Projector,No
-T457,28-09-24,8567.03,Vendor B,PO1270,Purchase,23.40%,Justification_B,Yes,28-09-24,No,Laptops,No
+T457,28-09-24,8567.03,Vendor B,PO1270,Purchase,23.40%,Special promotion applied,Yes,28-09-24,No,Laptops,No
 T458,24-09-24,8044.43,Vendor F,PO1364,Invoice,13.50%,,No,11-10-24,No,Conference Room Setup,No
 T459,04-09-24,3473.15,Vendor H,PO1677,Purchase,2.28%,,Yes,21-09-24,Yes,Server Maintenance,No
 T460,31-07-24,4656.73,Vendor A,PO1833,Invoice,11.96%,,Yes,22-08-24,No,Laptops,No
@@ -463,39 +463,39 @@ T461,05-08-24,8135.45,Vendor I,PO1877,Invoice,9.72%,,Yes,29-08-24,No,Consulting 
 T462,04-07-24,14145.85,Vendor B,PO1411,Invoice,21.03%,,Yes,15-07-24,Yes,IT Equipment,No
 T463,03-08-24,2360.92,Vendor E,PO1386,Invoice,11.42%,,Yes,31-08-24,No,Software Subscription,No
 T464,08-09-24,9169.2,Vendor G,PO1442,Invoice,0.06%,,Yes,21-09-24,No,Security System Installation,No
-T465,01-07-24,3630.31,Vendor B,PO1789,Purchase,18.90%,Justification_A,No,18-07-24,Yes,Projector,No
+T465,01-07-24,3630.31,Vendor B,PO1789,Purchase,18.90%,Special promotion applied,No,18-07-24,Yes,Projector,No
 T466,16-10-24,10133.77,Vendor E,PO1640,Invoice,1.23%,,Yes,15-11-24,Yes,Printer Supplies,No
 T467,07-10-24,3811.56,Vendor B,PO1376,Invoice,5.86%,,Yes,09-11-24,No,Projector,No
-T468,03-09-24,2720.12,Vendor D,PO1436,Purchase,23.17%,Justification_B,Yes,02-10-24,No,Conference Room Setup,No
+T468,03-09-24,2720.12,Vendor D,PO1436,Purchase,23.17%,Special promotion applied,Yes,02-10-24,No,Conference Room Setup,No
 T469,11-07-24,13968.02,Vendor E,PO1573,Purchase,20.47%,,Yes,25-07-24,Yes,Security System Installation,No
 T470,12-09-24,3978.02,Vendor H,PO1309,Purchase,10.03%,,Yes,16-10-24,No,Software Subscription,No
 T471,23-09-24,7448.11,Vendor F,PO1724,Invoice,0.11%,,No,22-10-24,Yes,Software Subscription,No
 T472,05-08-24,12084.4,Vendor I,PO1705,Invoice,13.06%,,No,04-09-24,No,Conference Room Setup,No
-T473,13-10-24,2818.28,Vendor F,PO1168,Purchase,18.62%,Justification_A,No,22-10-24,Yes,Software Subscription,No
+T473,13-10-24,2818.28,Vendor F,PO1168,Purchase,18.62%,Special promotion applied,No,22-10-24,Yes,Software Subscription,No
 T474,17-08-24,11952.88,Vendor G,PO1888,Purchase,2.00%,,Yes,15-09-24,No,IT Equipment,No
 T475,07-07-24,9974.44,Vendor E,PO1249,Purchase,10.23%,,No,22-07-24,Yes,Software Subscription,No
 T476,31-07-24,14720.07,Vendor B,PO1199,Invoice,14.49%,,No,28-08-24,Yes,Server Maintenance,No
-T477,25-09-24,5085.36,Vendor H,PO1276,Purchase,21.99%,Justification_A,Yes,06-10-24,Yes,Office Computers,No
+T477,25-09-24,5085.36,Vendor H,PO1276,Purchase,21.99%,Special promotion applied,Yes,06-10-24,Yes,Office Computers,No
 T478,06-08-24,6676.12,Vendor D,PO1781,Purchase,11.48%,,Yes,07-08-24,Yes,Conference Room Setup,No
 T479,17-07-24,9999.9,Vendor D,PO1251,Purchase,6.20%,,Yes,09-08-24,No,Software Subscription,No
 T480,13-08-24,11701.47,Vendor A,PO1923,Invoice,4.38%,,No,17-08-24,No,Printer Supplies,No
 T481,21-08-24,10438,Vendor E,PO1478,Invoice,24.30%,,Yes,11-09-24,No,Office Computers,No
 T482,13-10-24,3968.77,Vendor B,PO1251,Purchase,8.96%,,Yes,18-10-24,Yes,Conference Room Setup,No
 T483,10-07-24,10149.79,Vendor H,PO1665,Purchase,21.84%,,No,06-08-24,No,Office Computers,No
-T484,05-10-24,9052.49,Vendor G,PO1245,Invoice,18.46%,Justification_A,Yes,22-10-24,No,Projector,No
+T484,05-10-24,9052.49,Vendor G,PO1245,Invoice,18.46%,Special promotion applied,Yes,22-10-24,No,Projector,No
 T485,26-07-24,4260.24,Vendor C,PO1484,Purchase,10.09%,,No,01-08-24,Yes,Laptops,No
 T486,02-08-24,14727.46,Vendor F,PO1093,Invoice,6.70%,,Yes,27-08-24,Yes,Projector,No
 T487,06-09-24,5659.11,Vendor D,PO1995,Purchase,0.24%,,Yes,10-09-24,No,Conference Room Setup,No
 T488,25-09-24,10901.02,Vendor D,PO1330,Invoice,20.78%,,Yes,27-10-24,Yes,Software Subscription,No
 T489,29-09-24,14859.89,Vendor B,PO1409,Invoice,8.57%,,Yes,12-10-24,No,Security System Installation,No
 T490,06-08-24,3552.94,Vendor G,PO1401,Purchase,14.50%,,Yes,27-08-24,Yes,Office Computers,No
-T491,24-07-24,7003.33,Vendor C,PO1022,Purchase,20.24%,Justification_A,Yes,01-08-24,No,Printer Supplies,No
+T491,24-07-24,7003.33,Vendor C,PO1022,Purchase,20.24%,Special promotion applied,Yes,01-08-24,No,Printer Supplies,No
 T492,03-09-24,2183.22,Vendor I,PO1905,Invoice,9.87%,,No,22-09-24,No,Printer Supplies,No
 T493,31-08-24,4448.17,Vendor C,PO1268,Purchase,20.72%,,No,14-09-24,Yes,Consulting Services,No
-T494,29-08-24,6517.98,Vendor A,PO1725,Purchase,20.12%,Justification_A,No,06-09-24,No,IT Equipment,No
+T494,29-08-24,6517.98,Vendor A,PO1725,Purchase,20.12%,Special promotion applied,No,06-09-24,No,IT Equipment,No
 T495,21-08-24,9548.84,Vendor A,PO1540,Invoice,8.68%,,No,22-08-24,No,Conference Room Setup,No
-T496,17-07-24,3295.02,Vendor B,PO1102,Invoice,17.25%,Justification_A,No,14-08-24,Yes,Consulting Services,No
+T496,17-07-24,3295.02,Vendor B,PO1102,Invoice,17.25%,Special promotion applied,No,14-08-24,Yes,Consulting Services,No
 T497,12-07-24,12329.1,Vendor E,PO1418,Invoice,3.54%,,No,17-07-24,No,Software Subscription,No
 T498,28-09-24,6490.43,Vendor I,PO1142,Invoice,0.84%,,Yes,30-09-24,Yes,Conference Room Setup,No
-T499,14-07-24,14771.16,Vendor D,PO1260,Invoice,18.62%,Justification_A,Yes,26-07-24,Yes,Server Maintenance,No
-T500,10-07-24,13565.12,Vendor E,PO1863,Invoice,24.09%,Justification_C,No,10-08-24,No,Conference Room Setup,No
+T499,14-07-24,14771.16,Vendor D,PO1260,Invoice,18.62%,Special promotion applied,Yes,26-07-24,Yes,Server Maintenance,No
+T500,10-07-24,13565.12,Vendor E,PO1863,Invoice,24.09%,Special promotion applied,No,10-08-24,No,Conference Room Setup,No

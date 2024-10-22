@@ -3,6 +3,11 @@ import PyPDF2
 from langchain_ollama import ChatOllama
 from tqdm import tqdm  # Import tqdm for progress bar
 
+LLM_MISTRAL = "mistral"
+LLM_LLAMA31 = "llama3.1"
+LLM_PHI3="phi3"
+LLM_LLAMA31_70B = "llama3.1:70b"
+
 # Function to load transactions from CSV
 def load_transactions(csv_file):
     transactions = []
@@ -22,7 +27,7 @@ def extract_policy_text(pdf_file):
     return policy_text
 
 # Function to query ChatOllama for transaction analysis
-def check_transaction_against_policy(transaction, policy_text):
+def check_transaction_against_policy(transaction, policy_text,llm):
     # Convert the transaction dictionary to a string format
     transaction_str = ', '.join(f"{key}: {value}" for key, value in transaction.items())
     
@@ -33,7 +38,10 @@ def check_transaction_against_policy(transaction, policy_text):
     ]
     
     # Initialize the ChatOllama model
-    chat_ollama = ChatOllama(model="mistral")
+    
+
+
+    chat_ollama = ChatOllama(model=llm)
     
     # Get the response from the model
     result = chat_ollama.invoke(messages)
@@ -52,10 +60,15 @@ def check_transactions(csv_file, pdf_file, output_file):
     total_time = 0
     transaction_count = len(transactions)
 
+    llm=LLM_LLAMA31
+
+    print(f"Using {llm} LLM...")
+    
+
     # Add a violation column to the transactions
     for transaction in tqdm(transactions, desc="Analyzing Transactions"):  # Adding tqdm for progress
         start_time = time.time()  # Start time for the current transaction
-        result = check_transaction_against_policy(transaction, policy_text)
+        result = check_transaction_against_policy(transaction, policy_text,llm)
         transaction['violation'] = result.content if "Yes" in result.content else "No violation"
         elapsed_time = time.time() - start_time  # Time taken for this transaction
         total_time += elapsed_time  # Accumulate total time
